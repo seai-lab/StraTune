@@ -90,8 +90,11 @@ images) are needed to reproduce the numbers of the paper and are hosted on the H
 ```bash
 pip install -U huggingface_hub
 hf download PingL/StraTune_dataset --repo-type dataset --local-dir benchmark_data
+for s in train test; do tar -xzf benchmark_data/SpreadsheetBench/$s/spreadsheet.tar.gz -C benchmark_data/SpreadsheetBench/$s; done
 export STRATUNE_BENCHMARK_DATA=$PWD/benchmark_data
 ```
+
+The second line unpacks the SpreadsheetBench workbooks, which are stored as one archive per split.
 
 They have the same layout as the sample, and `STRATUNE_BENCHMARK_DATA` selects which one is used. Each dataset has `train/` and `test/` subdirectories whose `task_ids.json` define
 the exact splits of the paper:
