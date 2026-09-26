@@ -95,8 +95,7 @@ export STRATUNE_BENCHMARK_DATA=$PWD/benchmark_data
 ```
 
 The second line unpacks the SpreadsheetBench workbooks, which are stored as one archive per split.
-
-They have the same layout as the sample, and `STRATUNE_BENCHMARK_DATA` selects which one is used. Each dataset has `train/` and `test/` subdirectories whose `task_ids.json` define
+The full data have the same layout as the sample, and `STRATUNE_BENCHMARK_DATA` selects which one is used. Each dataset has `train/` and `test/` subdirectories whose `task_ids.json` define
 the exact splits of the paper:
 
 ```text
