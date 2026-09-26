@@ -1,0 +1,4002 @@
+{
+  "e91126e0-023d-4f96-9378-74efb5d6ecc3": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "ee22220c-802b-431f-abb4-0131fd8dbe5f": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "562d8516-e1fa-464b-9bb1-542fe818c721": {
+    "website": "boardgamegeek",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "1cc13b4e-d3d3-480f-a2fe-f18e83159d93": {
+    "website": "nyc",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "a531a379-7770-4b72-a8cc-ee19419536cb": {
+    "website": "nyc",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "c175fe34-143b-4a87-a462-e8e9d69d0b95": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "fb7741f6-f388-4535-903d-d07315ea995e": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "f86b0a14-ed91-491d-85be-b0af0b849353": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "f4c21e9f-fbd7-4c45-a282-de06ae3b73c5": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "a9708ad7-bec8-4435-b055-8ef6da520b8c": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "8b39c9ac-a965-4902-a7d9-ec7fb36ca096": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "6b54b029-bff8-49a7-acca-c57163f14279": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "2f660153-d470-4744-8b75-f8dc64c7f94e": {
+    "website": "target",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "cd92cea9-a60f-4e09-90d7-32384ccdd61c": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "01bede1e-91ec-4fe0-a6bc-173826497800": {
+    "website": "yellowpages",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "7c28f4e3-3dcf-477b-98c3-087c4fc16655": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "66a5b212-cf94-4917-8015-58970dc54187": {
+    "website": "amtrak",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "f8428085-905f-4190-9404-3e28fb691252": {
+    "website": "amctheatres",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "a8474730-82eb-4f12-b947-db64ac08660b": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "f9e88baa-a109-454b-839f-1ab0746a5f13": {
+    "website": "tvguide",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "1df0723c-f732-4ecb-b202-8e1854b7c079": {
+    "website": "enterprise",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "2d4b44c7-d11a-41c1-8be7-af4ae80b7a8c": {
+    "website": "ikea",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "53b4ca73-c05b-4609-98c8-a0a62072bdb5": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "fbe9f625-7b47-4e13-a2f5-6823195d7438": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "9e3d2edb-6535-4180-9050-ade88dbf798e": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "f9062def-8361-48df-849c-4d7dbc1e11d1": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "8aae9804-0765-4e14-ab71-4dc13ada32f7": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "8e133f6c-155d-4ba4-89f5-16f569d6e918": {
+    "website": "viator",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "fb9c0e7f-02dd-453f-8c73-da19282abf84": {
+    "website": "kbb",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "50f1e384-4b63-4827-a670-cd19f5a2c710": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "7f94386a-d032-43cf-9dbe-2b64430c9c28": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "373dec75-7278-4d12-bcc3-0e802e337c4a": {
+    "website": "cabelas",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "13d78369-994a-4202-a9ed-8361e1fdea9d": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "a513befc-46c3-4bb6-87c0-8f219107c756": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "5c52af02-ccc7-491a-bea7-05de278bf7da": {
+    "website": "jetblue",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "4ee7d5e1-50be-49d2-8af1-83b3da0519ad": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "6760de22-dc0e-4b29-916f-a6a78f2c0551": {
+    "website": "seatgeek",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "8c5ccffa-b88e-4928-9394-6d46cfd36e59": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "b49f0d3e-7047-41df-9b4f-c2c15b1d3f70": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "29fde741-075c-446c-8e8a-f432e81e7ac0": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "acc13b3d-0585-4cbe-a2b1-30c6e25517fa": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "aaade1d2-3a7b-4373-be01-ef98ed86288e": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "04b8b406-a031-48a3-a002-b1791d872e16": {
+    "website": "amazon",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "013faefc-26df-4eeb-be59-5638c5f9dc72": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "5ea9ec16-845e-4a99-8848-fd96e8bad254": {
+    "website": "expedia",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "4c578076-b877-4097-bf67-e231e349d56f": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "5e47dc3e-2a4a-4273-871d-dfdb33b091d5": {
+    "website": "underarmour",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "c9f65ae8-bd67-4a83-82d7-d42587e34e98": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "17fffbee-e41b-46e4-ab75-675b263ca7b7": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "e6bdb364-4327-44f0-a6d8-94eb00b36ca7": {
+    "website": "tesla",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "6eeaa528-88a8-416f-94f2-ae1425d9c4a3": {
+    "website": "nps.gov",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "563ec938-b259-45b7-b0d3-6360b74e601d": {
+    "website": "seatgeek",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "117c1176-b5bd-4b9a-9be2-80a7f390e207": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "4a0bd619-4aa9-48d8-8322-89a86aef93db": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "80e12375-19ad-400f-9e35-2a3853173bed": {
+    "website": "target",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "928ec908-ea23-42a4-8b13-3ca6f0721ead": {
+    "website": "ultimate-guitar",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "28d54466-de85-45e6-9649-2575d38adfd4": {
+    "website": "tvguide",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "f296f6a6-dbb7-47dd-bd6f-4ac2336a7d28": {
+    "website": "bookdepository",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "d29fd2a4-2305-4276-8a0e-2599291d0a17": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "8ab30c9e-f768-46e8-8174-83651d361b9e": {
+    "website": "foxsports",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "d070774f-9ca2-43c0-a7d0-221697791cf0": {
+    "website": "airbnb",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "8634bbc0-7bcd-4c88-ad0f-5c73c3f69e53": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "6ab8130f-362c-4fc3-bdab-d0528f0c6181": {
+    "website": "booking",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "9e3786bf-56a4-4b4a-a94e-a4c1620cd0b2": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "d6a0ab7c-f0d7-4ff7-9d42-55b44b5e7f74": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "1ee63f83-8b6a-4883-813f-63f589e6e52b": {
+    "website": "jetblue",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "486bdb13-16c5-4a53-8566-a60caaf94a73": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "0db002f6-db7d-4382-9c0d-8f5cef2afa17": {
+    "website": "nps.gov",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "49372757-4c58-4cb5-bdb4-eed0c3e83199": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "bd4b77db-00a5-405f-bf0a-a4d168967d64": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "71638c81-42f0-4218-a1b0-d3a137ad1cff": {
+    "website": "tesla",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "c51cc2c0-5750-4bae-b665-ad1b7fafa63e": {
+    "website": "booking",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "e7fbd3a3-d583-46b9-ad7e-3f7b765fc311": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "effb9df8-3b3f-4349-8033-f79ba1587a4d": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "63d1f820-37bf-4adb-aabb-65eb7925790c": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "0cbdfafd-822f-4f61-bb57-05fc146752ce": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "c64dcaa1-555d-43f3-adb4-3452c4e5d09b": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "d64cbfc6-7ace-4cad-9f0a-6643cd83de6e": {
+    "website": "amazon",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "9f4b6bd4-69dc-4103-b1c4-eb621639e9dd": {
+    "website": "boardgamegeek",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "10593972-6b1d-4b07-ba61-cb56ca0f06e3": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "df73be67-e81a-444f-82cc-e69d54a72734": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "747429fa-7dac-4ab0-b604-13cb9bf787fe": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "3b74d9cc-ba1b-441d-a1a2-a05cea62a800": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "03ac581c-ef95-4435-9d35-435e198b82de": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "009cc066-87b2-4ebb-ad8f-41eeb3d94be6": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "f118238f-ef8f-4b63-9159-a81e981ef46e": {
+    "website": "ikea",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "6d87b507-14dd-4903-a131-fa089499ccb5": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "8e200503-9b49-48aa-aaf6-3d6692b5cb50": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "61c8e051-a847-4424-9d8b-b8bc2c134a35": {
+    "website": "boardgamegeek",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "0ad8d621-8f1a-4fc2-adf9-a78d363ebd3a": {
+    "website": "foxsports",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "2bc47bba-32d7-406b-bb39-c6f2b2f2039a": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "b28e6a37-6e9c-46bb-8012-18ca742a521f": {
+    "website": "qatarairways",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "112dba49-3ea4-49ce-9a7b-b47d82d3f81b": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "51221157-cb79-407e-95c8-b2c730e95e01": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "6b4aa5a9-79c5-49a3-9cc6-ead02159a3dd": {
+    "website": "ikea",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "f7b93dc1-2f19-419e-a6e0-a701008c17fa": {
+    "website": "enterprise",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "c50985ee-d4d0-4a9e-ac6f-97bede200abd": {
+    "website": "seatgeek",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "44a12ff5-0172-444a-b979-f224162c1aa8": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "bcc2b6df-c012-4513-9fc1-ab149e93001f": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "4132002e-5ba6-4e36-a1b7-6bbe61503be5": {
+    "website": "nps.gov",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "d7c3103a-c195-4503-ab20-ecae4d4ce419": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "2742f638-cf66-4c72-a6a6-69f2a12bc269": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "1c8b3d98-ffcf-42b9-ae0b-73d22d87bad7": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "95499427-980a-4115-b1aa-6b252b4fb2c3": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "d0ce3db1-720b-4333-a487-2bdc8fd74a80": {
+    "website": "tvguide",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "3bb1c925-71ef-4713-a139-a3be65f8a7a5": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "cc174cb2-520d-49c3-93da-f93a1c485c03": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "cdd64586-2f2e-4000-89fa-200feefcd97d": {
+    "website": "underarmour",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "44bde32f-12bd-4c70-a1a5-37bdadfe872b": {
+    "website": "target",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "632bb279-036c-48e5-b40a-962b2e90d6d1": {
+    "website": "target",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "b4872f0e-9d9e-4259-8b1e-844509b85712": {
+    "website": "koa",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "5fb9730d-f489-4cb7-a220-d406794cef29": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "957878ba-cb47-40d1-bf37-23039b2dff27": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "3a231c03-d038-4b61-b5a2-685b77d9920e": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "19847108-680f-4021-83a9-2548fab75fac": {
+    "website": "viator",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "afa1f70c-c0ff-4e4d-a5c2-0c0d292ee066": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "10de6ac5-a69e-4d09-87fd-5737ca6f4b99": {
+    "website": "seatgeek",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "2cdee3d3-54d9-4f55-a8de-79ba9e2da28c": {
+    "website": "amctheatres",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "2a45ede7-6449-40b2-b032-149ddbe205a9": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "63388e25-a4a3-416d-bc9b-bb915fbca977": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "dd057bda-33ea-40b8-9865-771242e22f40": {
+    "website": "bookdepository",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "05e1f2bd-3498-4fcb-8d43-37c903397ded": {
+    "website": "amctheatres",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "e7e1616e-dd5f-4eb4-a7f1-b757c7880877": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "9e44c63b-2c7a-445c-b9c4-6580f4271268": {
+    "website": "menards",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "9f57055d-c269-47d7-99be-3525d725439e": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "67f9fb2d-443a-4e5b-9530-e24372faedd2": {
+    "website": "enterprise",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "521d9006-4560-49af-b232-c713d87dd2e2": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "4fe76361-f0e3-458f-a3d5-453da3c7cecc": {
+    "website": "nyc",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "981fdb06-2352-439f-a6d0-ccaa857c7a54": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "91f56f3b-e3de-4d57-95df-f976a11c64f7": {
+    "website": "yellowpages",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "4f208b8b-6d5c-4d3f-8df0-cab24d29edda": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "a88676d0-c252-408f-b796-93c95f6b71fc": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "4008118a-68a1-4a9f-968c-8b92a979dff7": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "4097c577-e637-4543-87a3-09b2f4734163": {
+    "website": "yellowpages",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "c5871c3f-27c3-48d8-bdf9-8b49382a2719": {
+    "website": "redbox",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "1bf4f465-99cb-483b-aac1-a7512b150755": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "4c997e24-d185-4730-84d6-f8cb512f4c03": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "cf89b0ae-39ca-4451-80df-260d46c62f21": {
+    "website": "delta",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "1943febc-0635-4124-871c-578c4d9f5a44": {
+    "website": "ultimate-guitar",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "81b6bba7-3d05-40a4-a475-48eaeacbda0d": {
+    "website": "jetblue",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "ec472065-2913-40df-bbbf-ee95bc76485a": {
+    "website": "discogs",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "6c0a3b1e-6ce8-4955-9359-dd4378aacc82": {
+    "website": "apple",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "4947d606-626e-4da3-a595-bfedacbed3ec": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "4baa4918-3312-4b9b-9506-333057d6856b": {
+    "website": "yellowpages",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "8b743c63-2a99-4c29-93ef-af920dab9535": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "5c91b907-39db-49c3-af73-5eb5c2390a93": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "f52ba76c-e5fc-48e5-85f3-41d4234a5c5f": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "3e50b35f-7af9-4835-a741-158c2d941722": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "59bdd427-c34b-4b93-a8b8-0c3a49acdcfa": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "1a2befd0-5e90-4bed-81b5-8ee0a93873df": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "86897828-35e8-4002-a98a-4e1dd26c6edb": {
+    "website": "nyc",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "ff173880-e7f5-4b4e-b941-79e9c3504add": {
+    "website": "ikea",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "1538e37b-9c33-48b0-b10e-662e192ad53a": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "27724810-0bc8-446a-a2f4-b53a87e190df": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "181e8206-2d04-47ea-bcaf-f701b8c5525a": {
+    "website": "airbnb",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "7eff6c15-bab6-4ce4-abb8-72619f593ea1": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "e92cd371-0bd2-4ac3-82e4-7fdaac46b626": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "b48c9974-4ba0-4112-98ce-3667781fa71b": {
+    "website": "thetrainline",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "e832e1f9-3a9d-440e-a96f-8cbbf241e4af": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "7a632871-a6a8-40fd-b48f-6fea49cf48da": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "33964bc4-fc1d-417c-ba5a-2c1c45ed8d8b": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "02142919-1e63-4059-9471-419158e159a7": {
+    "website": "rentalcars",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "4d73937b-3be7-4f5f-950f-b1905244a2ac": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "895f32c1-7d6f-4474-b5b1-50daf5cb2a40": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "26a20a7b-cd98-4752-a9ea-fcaebb3ab56e": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "b2c18588-b115-4937-b69f-8feeab22c387": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "693ae151-6a70-41b1-b016-87279c4c532e": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "54d60a7c-f52d-4d79-b879-34698507e22c": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "51fce1f7-566e-4ae4-89a4-dea4d0ec569e": {
+    "website": "instacart",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "74e653f0-aeea-4f01-8d80-c5846fae0c1c": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "4f14fb44-31d8-49f3-b5fb-95826175bcb8": {
+    "website": "bookdepository",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "b73503a7-e4e1-43f7-bfc0-866e7003615f": {
+    "website": "booking",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "39358d9c-6db2-4662-a91e-47a416eeacf7": {
+    "website": "koa",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "4b2030ff-b83c-445f-bf87-9c8fbc68498b": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "bf008019-bffd-42ad-a48b-054488e1458c": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "9653dc0d-96d9-414f-a711-3af94bd7cf5b": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "3a85b415-9e68-4cf0-91be-386d4d8f0710": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "2a7f7732-ec9b-4d78-91ad-f0fe10bf7daf": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "d4d4a01e-47d0-4e54-8bd5-3d85acebb6dd": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "2177b546-5718-478b-8535-bc37975b0d0c": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "47072aee-1cb7-436c-8dc6-b2a6d109a100": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "718ccfb6-687e-4260-ad6e-9fa3942abec5": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "00e83fae-f2f0-48ab-912c-32c03982642b": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "09675529-c12d-42dc-a260-c1e046f87256": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "7b5b2188-afd4-4279-b738-c37a1b5f2142": {
+    "website": "nps.gov",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "706d0ccd-c0ec-423d-88c0-a5716700a855": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "4d311ce8-c660-43dc-bde9-d06e85f6a12c": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "a92a83ca-25ff-4751-8754-c65ef858699d": {
+    "website": "koa",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "f45b0783-4325-4b3e-959d-c181971d72f6": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "40fbda9d-22c5-4aab-9798-3db50d981c5c": {
+    "website": "yellowpages",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "78e346d2-3c80-4243-b921-ed35c4c4d923": {
+    "website": "menards",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "51e85ea8-7a75-40f3-8f35-ed255f87171f": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "4ff347e6-e911-4af5-8151-7805a9e91b28": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "b040b35d-cfd3-41b8-8b8b-851ab151a9cc": {
+    "website": "boardgamegeek",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "2281faf9-ff02-42e3-b785-8bcc3a0e530a": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "f2f531ff-94d5-4320-8594-7ae5d3a52af5": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "5a15ea92-571d-4a45-ad18-5b4eddbc70a6": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "18a581b9-5021-40aa-835d-3c8110402df3": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "984f5bdb-d6d0-4b9d-ae23-bee8283a4f40": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "12324b80-88bd-4d48-962c-ae80203e5058": {
+    "website": "redbox",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "1a833106-368a-41e4-a36e-32f6b1d36d16": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "40bf7303-ba39-44fe-b73f-ad3c9743c579": {
+    "website": "menards",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "75db63ac-4fcf-400e-833f-d31f00cf6ab6": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "2089ee5c-1ccd-495e-9a80-f62e129554ed": {
+    "website": "amtrak",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "8a6f2641-9896-4657-b447-56927420e8c4": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "e4cf5835-4726-4a84-bc8f-5023e95ddec9": {
+    "website": "delta",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "d743815d-b7be-43c5-99b6-a224bd2f6a1e": {
+    "website": "apple",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "78c52592-76e4-4c45-afd5-f94cf213314e": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "3f0988e0-e3a4-4dd7-a89f-482175a474a8": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "85706225-aa42-43c1-8cfa-8696118698a2": {
+    "website": "jetblue",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "e72f9c32-4633-4fcf-abd7-b7cc4a9aaba3": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "1a807a1c-d3b2-425e-9684-2a9e79846676": {
+    "website": "nyc",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "102c50a4-23f8-44ae-8300-43822b271dbf": {
+    "website": "airbnb",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "61563837-99af-45e2-a13f-9d6bd9f74a81": {
+    "website": "amazon",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "521aa0aa-e099-4fc9-bb4e-f8a593a29f81": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "e8637690-bb8c-4596-a608-5b40a29d77c9": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "e2f8b054-59b5-4fd8-bd58-9f95b29f979d": {
+    "website": "kbb",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "45ae95ac-e539-4314-a0ca-8947b1843890": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "da386775-280b-4a84-9801-4ae3098044b0": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "b332a3c6-c4f5-423c-a207-b1bcb28db6c3": {
+    "website": "ultimate-guitar",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "bb7c3e38-dd9c-4472-9774-0012586a1dcd": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "60383804-a8e5-4e50-8715-da391d76617d": {
+    "website": "ikea",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "efa705c1-f836-4704-b6c8-6e114a2eb865": {
+    "website": "kbb",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "0790c8be-6e6d-4e2a-9c13-43ac9367da4c": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "8e7b05d4-7dfb-4345-af2b-3e1dcd1c2ea2": {
+    "website": "tesla",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "1b74fa2c-3236-45ac-9b4d-ff913112db52": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "4c3b2a4f-4b54-4724-9d8a-0ea95ab180c5": {
+    "website": "ultimate-guitar",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "ef09c913-747d-4256-bd51-2b91540c5222": {
+    "website": "flightaware",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "36b86ab8-a448-46f7-813f-3e3b5c3d687c": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "4bce534f-3057-40ca-aecd-ffb07b3c9fcb": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "e638beb6-059f-40ea-8653-929221e997db": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "dc1f0824-5483-4d3b-87d2-3f760a42a25e": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "2fc63250-ac9a-4cd4-a29d-6460f0652fa3": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "51d2bb04-8207-4c21-8bc3-c00d826a5d0c": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "96e95a76-4a1d-491c-82ff-fac663d89ddb": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "122178b3-b5d4-41f0-be38-150ca0e2f5ed": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "41b8202c-9092-4307-ac58-2283c76df3b7": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "39b037ac-0a11-4b05-8919-b4f9863fd0cd": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "6d963cc0-90d3-4908-bee4-29a8530536af": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "8aedabbf-a7b4-4da7-8eaf-9e159a3ec99b": {
+    "website": "nyc",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "d3a4e6c3-65e8-46f7-8dd7-439bc559af2a": {
+    "website": "kbb",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "edf748d4-07cd-4f0b-aad3-01baebbd557b": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "1860601a-faef-4dba-8cbb-807ea8434dca": {
+    "website": "delta",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "884a375b-e3f4-4f34-8e99-290f49141f9a": {
+    "website": "amazon",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "87b23bf1-3c23-45a6-82bf-5a535c7cdc2f": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "55518089-52b9-4504-8e4f-885a9b2943a8": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "ee9e993b-0254-465d-bb04-072e01e5f498": {
+    "website": "cabelas",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "49c60777-2500-4cea-8200-a95d3be2c9a1": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "f61456ed-3cc2-41a0-b79c-56737515fac9": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "6da08512-9375-4b47-8cd1-addec58f385c": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "a31de393-c6e0-4175-858b-03cdc435d585": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "bf469f30-6628-4017-b963-672645d7feab": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "e48f848d-62b8-441e-aafb-c76aeb2c4f84": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "92ba0696-bc54-41c9-8ddf-1a2f44420c6f": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "2a831fb6-3110-4ffb-8687-1d2acab09873": {
+    "website": "nps.gov",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "5b433cc4-26bf-4e62-b406-f00dc09c274d": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "c5d1ecbe-f7a6-4d27-9e03-08dcfdcb524f": {
+    "website": "jetblue",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "bef473f1-82a1-4359-a2c0-59b6dc2f6abb": {
+    "website": "nps.gov",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "05c4da5b-263d-40a4-9982-6cf6311b57a1": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "0dd6fbb7-4236-47f7-a69c-30f0836b76c3": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "164cf025-e767-4781-930d-5bd46ad2c4c1": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "ca049641-9721-4593-95c5-a47e22365b5b": {
+    "website": "kbb",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "813e47ec-6304-42c5-82d4-1fc461247965": {
+    "website": "ikea",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "440273fa-f1b0-41e8-be75-90732ad5170d": {
+    "website": "underarmour",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "0b59dd33-7f6a-48df-aa1e-9cc67177287f": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "2159d768-6657-40af-b336-ad5726fec1e2": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "1282a011-194c-40c4-8f76-875e502cdd53": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "14d4edf5-e5ca-40e8-8e5d-77068a22c32c": {
+    "website": "foxsports",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "9223ed29-5abb-4f4d-8108-1c3a584a7017": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "4770e887-f523-4609-a989-ded8c8abad19": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "f464de6d-9923-4e8e-8046-56751a90a9a8": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "c577375b-ecca-42f8-920c-b06809eef2b4": {
+    "website": "nfl",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "0633c328-f1ad-42bd-8aec-7a1883b5898d": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "3e0d115f-9da7-4211-9d99-122912890b40": {
+    "website": "soundcloud",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "c2e4800e-684f-4bb6-99ab-782806c8776d": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "3d76a0fc-7ba9-4a74-ac52-db0cea359553": {
+    "website": "booking",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "08a998f9-82f7-48c8-b6ba-72a58d39b457": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "2bce1096-f573-4752-94a9-e139ce37eb27": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "2b562465-e325-4743-8e68-6e7852594f93": {
+    "website": "amtrak",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "7180c4d1-971b-418d-8a64-87ab0d29c20e": {
+    "website": "enterprise",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "f4bad8a9-72c9-4237-83fa-5673a0e139e9": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "a3edc9c7-397d-478b-a0b9-0ffa0897acca": {
+    "website": "yellowpages",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "41cd71cb-cae5-41c8-abe8-67e42fabd4a5": {
+    "website": "amtrak",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "4985e844-15bc-4fa4-9a76-f2c6fb1e6c16": {
+    "website": "tesla",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "a3bc6528-5fd5-45ac-81aa-7fafde757022": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "bf159a0f-e6d7-46fa-beea-c231934fa7a9": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "3c49d9c8-c3e4-402d-9a66-c34232975aa0": {
+    "website": "jetblue",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "dc636898-246e-4b08-9978-6a6dc1b20320": {
+    "website": "amazon",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "117b1d5c-1e54-4588-ba84-aa173887b067": {
+    "website": "koa",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "b49f88ac-b407-41af-a9e7-f5e4cd1f970a": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "b7082615-e6e1-4981-b51b-9259671d1adf": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "4b431888-9909-40b5-8351-be52905e4d5a": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "34e13beb-0235-41d4-b108-137cc7480904": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "41ff100f-582a-422e-b387-3abd9008cee4": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "7685e8ad-3989-4316-85dd-746fac2956be": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "b30b9f84-0541-4826-a3af-98220b851f7c": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "a51b649f-15b4-4ce4-936e-0b76efa0dd2d": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "15a0ffe5-8462-4a8e-8938-91b05a40756f": {
+    "website": "instacart",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "60e1de47-efdb-47e8-935f-2ac38af1ead3": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "b307117b-e10c-470f-a85d-968b2e442b19": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "d9c160e7-b179-4d42-8570-e6f3f85aa412": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "767faaa6-220e-4e6c-ac1d-39b1501c69cf": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "7ad37a91-c4c2-42d6-9b87-1f3e6a81647e": {
+    "website": "nyc",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "fe6b5531-ce29-4ba1-8e98-43b5fecf57fa": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "b5d47068-b773-4061-b7ba-17bd25e88e06": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "b83120d9-5892-4e8f-b4b9-346cc07827a7": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "f122e4c9-7634-4193-94f9-8623cd75d1f1": {
+    "website": "thetrainline",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "d311891e-82b9-4a16-ab46-6af92f054f94": {
+    "website": "exploretock",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "da679cfe-9180-49f7-b8a2-a2b1bd6d8803": {
+    "website": "ultimate-guitar",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "1f128c19-3093-4c49-bfc7-13589aa8e88a": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "0b2f241e-8d1f-4f22-be2f-5722ceff23a3": {
+    "website": "airbnb",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "987b25a8-05af-4b18-bd5b-7e2ccba5fb1e": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "945ac29d-8e65-4e14-8bab-21742ac92a47": {
+    "website": "instacart",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "2a8ae104-6f06-47cb-80a0-045188125868": {
+    "website": "apple",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "d3ca5294-89aa-4028-8776-be08edc63783": {
+    "website": "koa",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "3cb44998-5a0c-44c5-84b7-ffb729a356d8": {
+    "website": "amtrak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "0fc98662-4405-4a30-9854-9301c98fdb37": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "28f6ac29-940a-4ec6-a8bd-16ae2ce69a1c": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "f8027aa8-c193-47c8-a97b-432836093939": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "aab91310-0100-4a40-98e9-720c53199bff": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "7f640279-bd9d-45ae-b3fc-43338977e2c1": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "e3486ac5-6d1e-476f-b389-2e6df37f94bd": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "46a3683f-fbe0-40d0-8729-6c7964d994e6": {
+    "website": "underarmour",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "40cd58cd-6c9a-47b9-a927-92243970d87a": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "c5a0a291-ef9c-408d-9505-af7aeb6f5280": {
+    "website": "thetrainline",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "13a676be-2f4f-4abf-83fb-4ab641793801": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "a8de57df-b0be-400d-9211-931321c6500c": {
+    "website": "ultimate-guitar",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "446e3135-8a53-455f-9471-9f6660f6a94d": {
+    "website": "qatarairways",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "0a2623c8-ce74-4572-9eb6-89d0b216d0cf": {
+    "website": "soundcloud",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "0f9dd411-f3ab-494e-8a3a-5dc9a908f4ee": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "21e5c264-df85-4055-a566-ecb65cdd8c63": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "09660a8d-b01d-4e93-9dd2-0b4af256bc80": {
+    "website": "thetrainline",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "cbfa5c92-41cb-4481-97b2-9fb41298be13": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "21f5aaaa-d54e-42a6-91c0-d1a427533963": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "58badcfc-343a-47c1-8aec-f609925eb4ed": {
+    "website": "soundcloud",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "e8ce2bcd-894d-4b2f-99e4-ae695a6b9dd9": {
+    "website": "rentalcars",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "270c18c6-b3cf-4409-ba6b-18160525692f": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "783d5a91-5f7e-4184-8467-e7ea88e81c5b": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "84d8a4df-0bba-45f9-b4c8-f5d455de451c": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "6e565708-43e2-492b-9f1d-25d51387dcf7": {
+    "website": "exploretock",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "50c13c64-4c9b-4f55-84f6-65ae443848a2": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "c9215395-70cd-4da5-af99-9ba36cde858a": {
+    "website": "tvguide",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "03103341-f9d3-40a8-8435-f7946dd707b3": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "a39f20a6-4d31-4f5f-b0ac-be8d548d7fa5": {
+    "website": "koa",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "644b7bed-b5fb-4090-b04f-a669d41ac93a": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "4bc70fa1-e817-405f-b113-0919e8e94205": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "0dc0190c-57cc-4c0f-b939-c0617102166e": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "2e133e56-ac17-41dc-987a-257078d770c3": {
+    "website": "viator",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "bd2b5866-dced-4ec1-8b3e-8a8a24e71a96": {
+    "website": "bookdepository",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "c2a17420-ceb4-4324-ae8f-60cf845a144b": {
+    "website": "nps.gov",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "13f1648c-9de8-497d-bed3-02096206dc5f": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "c5070129-37b1-4f87-930f-c45049a70e97": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "d5054276-2223-44f3-b2ed-4944bae4d2b1": {
+    "website": "enterprise",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "e8603513-2740-485e-adf9-86361dd015f4": {
+    "website": "flightaware",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "b02e47ac-c1a6-4f5c-886f-f32af745e7f3": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "a6372f23-f462-4706-8455-5b350c46d83c": {
+    "website": "exploretock",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "31df4f0d-8852-4694-b6cf-5f337bd26d39": {
+    "website": "qatarairways",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "980d35af-6c00-4d6c-94cd-0c41e0fabb76": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "63529dc2-7b13-493e-9a0c-b1ce50256a16": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "31c12c59-d9b8-4d9a-8456-9f1107d0e5f8": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "555dd7af-72ce-4455-b4d1-dd9b20ae7c5e": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "1ed913ba-62a3-4214-a947-217b74c4b8f7": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "16e81dcf-9762-4b83-be3e-60a65a15efec": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "fd2494f3-fe7d-4c58-81e4-742c72b4e1f2": {
+    "website": "apple",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "9365fba7-2698-4063-b151-dd0bd55e0f50": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "a065d3cb-e588-437b-b2e5-38359e770014": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "1efdcd9d-ebc6-4bb7-8823-e54dfe25f409": {
+    "website": "exploretock",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "c9740663-a6aa-4aee-919a-330a9f2b3091": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "551ab381-5bfe-4491-9602-0b0c584d1346": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "a2b159c8-86d0-4b76-9244-f19cc41d5ad8": {
+    "website": "bookdepository",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "fc81025d-f5a3-4b68-9551-e84175b87a63": {
+    "website": "nfl",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "6fd2fbb1-9f43-4c46-be42-569a892648e6": {
+    "website": "amazon",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "973bf55c-d1a0-41c7-9ec8-9f59b3dbfb58": {
+    "website": "soundcloud",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "e9f5f0d0-7241-4a28-b387-c65a0ce52a61": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "74b456b6-0e62-429f-b13c-45861f2cdf82": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "56e4a9c1-d39e-4173-9857-9cf980c0fba9": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "ad0369b6-cfd5-4555-bb4f-d84a942be555": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "2eaf60d5-d2af-4f50-a3ad-5cc9132a770a": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "6f1fe14d-543a-43c6-964a-0c74f6d86091": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "1ced6d51-577b-4e85-b96e-b823dbbcbf29": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "8082086a-10a7-4631-9792-b57337426f9a": {
+    "website": "rentalcars",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "789b7d2d-fb01-453c-b933-383965e6123c": {
+    "website": "tvguide",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "604c4377-e24c-4900-a72f-346d8999d443": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "4775a0e3-3dad-46f2-b719-b1c0dae9e147": {
+    "website": "menards",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "4b2bb9e4-8e28-490b-895f-80da5e7e2815": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "3b6385ea-0cdc-4ed8-be93-dc90113d2255": {
+    "website": "apple",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "e592a68f-567f-4d6a-a1d6-4166cd129638": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "fca09c13-5e6c-49d5-b3ee-b620a70b19f5": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "04782cf5-acdf-4a9e-b3a6-4b51a18e5c28": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "160fc162-7f03-4f59-83e1-5502d00806f2": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "b5cb859d-8460-4b27-b6c9-d6fea6de9889": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "298c854d-2987-498b-b43e-6a6452fb11c7": {
+    "website": "viator",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "bafd6a44-5938-431f-8e2e-17d680d5c48b": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "82c5913d-8392-44a2-8873-6627a281fa23": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "87d1206c-a16b-4816-9c1e-6e1a04f30bf6": {
+    "website": "boardgamegeek",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "844f8d77-e12e-4d68-8c4c-9146bd5b1530": {
+    "website": "instacart",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "d1942a73-745f-44c5-ba30-0d0c7925f5d2": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "56d210ec-22eb-4b3f-ba76-ee531403701a": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "0b2c1886-0345-4ca7-a555-8b1cd1b1c40a": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "c14078dd-a4be-4784-a46b-cb01333e3019": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "33b57a14-f469-405c-8843-f7e8ceb5b1ed": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "29f47ddb-3d25-4cfb-b1d6-d3987e998a13": {
+    "website": "amctheatres",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "3e142eee-7a62-4ad7-ae16-419d596ab63b": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "4970cd99-ce6b-42e3-bc78-695c9d510f6c": {
+    "website": "koa",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "fcb50c4e-a89e-4f18-b7c0-423295e7c298": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "4af615be-4472-4357-8737-5286b06b385d": {
+    "website": "kbb",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "39937001-8af2-4727-bb2a-6997981cf50d": {
+    "website": "viator",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "8cb94647-b0a8-4b8c-b00a-4788ef522b79": {
+    "website": "amtrak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "642ac4f9-dea1-4c10-89a5-208238a2c6e9": {
+    "website": "tesla",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "84f19aba-ad0a-46db-84bb-c279b5353b8a": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "3be7acd4-c8c4-4e0d-b2b6-f82a4e17de8c": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "c8990751-0aab-440c-bf6d-a32ac1216344": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "f1f4e4f7-3fb0-4aeb-8123-4882a1f39cb2": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "196cde81-b001-47ec-b7c3-a77869e36deb": {
+    "website": "nyc",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "5e01c2f7-c63b-4826-98a3-a18f731e16ea": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "30d5f7dc-3650-4177-93bc-b59f1f5621f0": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "61fa0552-66ac-4572-95f2-800537cfee7b": {
+    "website": "exploretock",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "4faf56f2-217b-4d2d-b510-a24e30e6b20e": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "1203a016-d541-4914-9cdb-f042ad0abcf5": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "87989b8e-0b6a-4dbe-a8bf-6adc2bdf3c29": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "22509b64-b643-44ec-b486-9828e686303c": {
+    "website": "amctheatres",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "930803d7-4032-4144-89a2-e44f3c5c9ccf": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "3596733f-6427-4ab5-9ff1-c65baaf524f1": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "27a8bf82-2e7e-48c3-8fb1-66909c13d585": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "c3e841d5-4624-44cb-a8b5-897b9aa3ef9b": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "ae969e05-d10e-4255-99f7-c27e071fad69": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "0a2130e7-1108-4281-8772-25c8671fb88e": {
+    "website": "bookdepository",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "1ba150cb-3b4a-4f0a-bff0-b448c78608ae": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "d042ee7e-a2eb-448b-9942-b7aacc9115be": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "8e4dbb21-de6c-4b9a-8bd1-97fc6b1fe3c0": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "ab139e9d-eb99-47f7-8d0b-f93479fadadf": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "998e55fb-66d7-443f-bb73-9cb6a2bc26a8": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "408cc1bd-0a76-4bad-b5f4-11db4405047f": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "b7e501a4-5dee-406e-b6ba-00eed783df0c": {
+    "website": "koa",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "b5c98548-4a3f-4e7c-8287-c36963930348": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "ba5e0124-b1c0-4116-968c-6b31a4c9c0a7": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "4ee87dc8-2fa1-4c98-828c-9c0c8dd8225f": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "7b7079f0-8891-426a-8e53-0818a02a0159": {
+    "website": "viator",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "8710addc-5ff3-4aaf-b397-4c6165f285ee": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "1a35becb-e07b-4235-8cd3-fc2a29f8dd6f": {
+    "website": "ultimate-guitar",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "998d121b-c858-485d-9dd3-4609575d144b": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "3f62b47b-876b-487e-8681-63e80555938d": {
+    "website": "cabelas",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "329d9ee8-de96-40c2-aa19-2dcf8e86b724": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "4f395aad-6f10-4055-932a-d2af443e6bfa": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "e62bcf45-0be3-4195-b234-37755d6d715e": {
+    "website": "amazon",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "eab97f0c-38b3-4421-bff6-697b3267f23c": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "504c0c6b-7e78-4bfa-ae3f-00f8e59c3693": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "a338a731-596c-456e-9a9f-25f9e284309e": {
+    "website": "soundcloud",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "26d3a803-b0aa-4a2c-bd31-3fe97a63388c": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "66625c9d-5bf3-42d1-b463-ab2767307201": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "af8a7016-67db-4a6d-ab61-04eeb1f244cb": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "d22ce493-c49c-43f7-939c-4a429797c2a3": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "9f76268f-9a4e-4eab-ab2c-262d2fe7bdee": {
+    "website": "cabelas",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "da800367-eeab-478b-bcf2-e6d4106591d2": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "749dfeeb-8293-4c25-9cad-84f1a93f165d": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "8368b990-c6ca-4cfe-a7ab-c2a88697639d": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "5ad0f114-6cea-4f61-af3d-f9f4d4096d6c": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "0c577209-47dc-4645-8d10-0b659663a969": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "c759aa6c-0738-4ac6-b03c-41d0f91ff4d3": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "694f3b5c-8ee4-45c1-bb7c-b5377c366096": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "e9300d50-11fa-4f98-8c39-424630668ab9": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "932c0ec6-d500-495a-a7a7-0f632acbf6a5": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "b9f5dd60-690d-4f32-9e69-3db9d346f020": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "d0d6b0ed-82e4-4ba7-9a9b-7b874dacf19c": {
+    "website": "yellowpages",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "1ec300ff-d45f-495f-8fbe-36802fdd8c57": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "851ed4e6-51ee-47ad-a861-a28bdc61a102": {
+    "website": "tesla",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "4c4ab02e-a617-490d-96c6-333d7fa82fe9": {
+    "website": "qatarairways",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "fd0e4520-b47b-4a24-9b21-d10e68c42472": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "9b6316ee-4cfb-490e-bf52-9ee6cdded08b": {
+    "website": "viator",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "ddcbce13-4c42-4c40-99ab-2c58588f1ccf": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "3b390b60-5c04-40ee-a5af-353def43ffbc": {
+    "website": "yellowpages",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "f1db33c6-c414-438b-bbfc-cdaa6cfc6b68": {
+    "website": "kbb",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "22e33a38-902c-4f62-9e9a-822b2370b6d1": {
+    "website": "enterprise",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "9ea9ac0d-8c31-49bc-aa3d-e85b80580409": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "52a8bace-f14c-41ce-980f-50d95e5ac259": {
+    "website": "flightaware",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "9326b908-cbe6-41f6-957f-00b84c26bfcc": {
+    "website": "ultimate-guitar",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "1b17b79c-589f-45eb-b55d-c977d1b9708e": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "38fe67f7-14af-4259-8309-aa350abdc395": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "03e45ce0-4375-44aa-b57f-cf439ccbe363": {
+    "website": "nfl",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "6407babe-fe48-492a-8211-1f22a81b9ac0": {
+    "website": "underarmour",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "8e849b85-5acc-4d26-ad5e-d24ad24343df": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "a4397261-95a5-4d57-a531-6082b2af8ac3": {
+    "website": "cabelas",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "11344944-81ef-4fde-82b7-7e9724fc96f1": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "39fd14c2-3bdd-4ca6-8a3a-1a6e7374c8e6": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "b1a1f767-8611-4539-9c08-475011d38e12": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "f738b393-9234-4c07-8baf-20f05627d5ed": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "0dd0b532-7bac-4b3e-b5a4-2ca6b0897af6": {
+    "website": "tvguide",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "35cf31d3-c88d-45fe-9959-4cf1de72bc7d": {
+    "website": "underarmour",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "44284a24-b3de-44ef-bcfc-abf57c3f791a": {
+    "website": "flightaware",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "759a1b1b-bb1f-4981-aef4-02a319f8dbaa": {
+    "website": "ultimate-guitar",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "000c2828-e8ce-4b18-bfe0-89ed333add06": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "13cf0b14-422b-4486-841a-aa9ded048380": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "7bdebbfa-2512-48e2-93b1-d92e2c87c6e1": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "92cfe78f-0385-4ef6-b829-ae34291e766f": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "1a16a98f-4e8f-4ff9-9fa2-b97d2d403cc3": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "b2dd00ff-3f09-46bf-a043-7b996f3815da": {
+    "website": "koa",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "58394242-6531-4791-a7fc-6f279037706c": {
+    "website": "airbnb",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "c55b9949-b785-4d9e-8b20-b626cb595623": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "716ed90e-a138-452e-b5b5-167911871fda": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "c82bd6d6-6f08-4f1d-aeef-351c86694bbc": {
+    "website": "redbox",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "b3fbf029-aa63-4dd1-879f-47d8abbae4d4": {
+    "website": "yellowpages",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "aeace1e7-0460-4f4e-99fb-2a8c867b97ef": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "eeeee9d8-5387-46bc-a741-5bcb66b46f31": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "a11022ab-f733-4295-a2f2-0da19cccc1b4": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "ecb649da-0ca7-4707-8ebb-8707296e28b7": {
+    "website": "flightaware",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "69661946-6c3e-4e26-95ed-1f7641a31f22": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "6b831239-435b-494e-9aa8-a49e8605d0b3": {
+    "website": "amctheatres",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "04ec089f-2ae1-4fa9-bfdf-4dff9ab710ad": {
+    "website": "viator",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "dd13bc51-f582-4004-8641-eb4e62cabfc7": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "85bd1881-6efd-458d-97c9-ae507ecba1ca": {
+    "website": "foxsports",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "d637c171-dc6e-4a4e-a162-9c230e822932": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "1b310ebc-d9f4-4eb9-b348-30b329207a36": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "1d738d01-507e-46ff-8d4d-d4a7dffed936": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "37c09901-63d4-4194-8a96-1d87ca8c37ae": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "f9723022-04b9-4778-ad33-cf54eac3d393": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "f355cfcf-a3f7-47e4-b0be-b1c595e0954e": {
+    "website": "amtrak",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "92869590-839d-4dfd-8884-4c52bef3b328": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "978760ca-7ec3-4b78-86c6-98b173c1a00e": {
+    "website": "soundcloud",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "1bb8d48f-dac7-472d-b2b2-651ab184baf2": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "bc45669b-6bed-4240-9d9b-6b5e45a7e6f3": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "edbac1c3-5409-48b0-a0ac-402a4900c59f": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "577ac962-aefc-46c5-9050-a6069bf2a8fb": {
+    "website": "ikea",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "acc194d4-2f71-496a-b378-e18ab698ab0f": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "8888ebb8-c2b3-4173-9718-51d752b9e5ab": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "7f1f085b-5765-40f8-86c7-8df6e8b68053": {
+    "website": "qatarairways",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "020bc054-a829-4af5-8f0a-6efce012c7ac": {
+    "website": "boardgamegeek",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "5098c679-dacc-4abd-9331-18b898f936dd": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "76514d5c-cc1c-40b0-8c08-427cedb106e4": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "3d77584f-9074-46db-bd1e-086a506b54d3": {
+    "website": "kbb",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "2ce0a80e-a049-434d-8b99-8343d2a0b21d": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "63e3020c-bf52-4950-9e26-50f98a59b5e3": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "d86d5cc1-50f7-4bfd-8e5b-60db84e87956": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "87ca0d6a-c513-4aae-b14f-7d4db3255e98": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "29d6b448-a688-4c2f-8f6d-a13546d506d8": {
+    "website": "discogs",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "cd8f1f63-f6c3-4b1b-9ec9-3b13b9f0386c": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "69065697-a426-4e4c-80f7-82bf592b268c": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "2d92911a-b208-4d68-ad00-46d2d67f9efa": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "caafd610-202e-49d2-85d1-3f167f3ab443": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "02e7bae3-c67f-4227-b6ea-7b87d111202a": {
+    "website": "tvguide",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "4786982f-25f5-4bf8-bb91-522656489f63": {
+    "website": "qatarairways",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "67648411-9d11-4254-8973-7d8dfbca58e8": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "cc643c1f-e73e-4e9f-abe9-5ee2d3b0a0dd": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "2e15efa0-f646-4dc4-9ce0-2e3d155c788b": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "cd4df5fa-2c90-4a76-b4b0-0ca7bcdac2ee": {
+    "website": "thetrainline",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "ab989f1e-bacb-4c37-ab81-c8f24ee3284b": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "2ff0909b-a8bb-4370-8428-9d355f5c6a67": {
+    "website": "flightaware",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "b20d38a9-8c0f-4ed5-becc-f0f54fb90798": {
+    "website": "seatgeek",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "eb609e15-ff10-4b3d-82ce-348c439548ca": {
+    "website": "underarmour",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "8d0eda4b-7a6e-45a4-bd8c-59fd3da58676": {
+    "website": "qatarairways",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "eee72e78-71bd-434b-ba74-33888ea5522d": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "b7cee0c0-b67d-46b8-bbd1-9f042fe810f5": {
+    "website": "qatarairways",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "06ed65ba-d2d3-4114-a67f-4622ec357aa3": {
+    "website": "amtrak",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "5d69e640-7765-4381-979c-9881afc048dd": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "05238c0f-514f-4af2-bc4c-f7521d649825": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "4272e233-3440-4572-bd86-b3a2b22a4061": {
+    "website": "booking",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "6a7eaba3-f6ec-4eba-9e04-ff974b228ef4": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "50bd08bd-989f-44ba-8a99-71e75ba602f1": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "779cec8e-eef5-4de8-a42e-b449363664df": {
+    "website": "amctheatres",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "619ba95b-5a27-4c53-841c-edc281aacf7a": {
+    "website": "cabelas",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "b4a2fc25-a7fe-4e31-beae-b31f2ef8cf3e": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "aa1a4414-f141-42b8-9e8b-28d5bd1eeef2": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "bdc1f69a-da73-4e51-9dd8-83494d4983c2": {
+    "website": "jetblue",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "b1fa9bb3-6e2c-485b-90f1-2a54510bf358": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "44dcda68-082c-455a-a409-7091470cc006": {
+    "website": "thetrainline",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "c95b0276-a588-4aeb-906f-a3f6f1c205ae": {
+    "website": "boardgamegeek",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "4e9d71b9-b936-41d0-b1f9-cbfc17f79f51": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "06309af8-9ca0-41c4-8acc-1e4e5db2f344": {
+    "website": "kohls",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "f17fa68b-27dd-4b9c-bc11-7a5dbe206741": {
+    "website": "rentalcars",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "73cf6eec-cae6-4d5b-9b8e-e44359311565": {
+    "website": "underarmour",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "be5bae8d-bebc-4474-9d28-1cc633be8d8d": {
+    "website": "delta",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "ce34bc61-e3d2-40c8-b02b-b149efc4b115": {
+    "website": "enterprise",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "7cd5a347-0e44-4ea2-8fcf-45fec1844279": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "a67318a4-5049-4ac5-8c6b-c14fc527483f": {
+    "website": "kbb",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "9cd20dc6-d2a5-4e8f-9252-549f2c51413c": {
+    "website": "tesla",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "b4362dec-6803-415a-a112-819f694b84d9": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "1267fbd8-54c8-4f2e-8471-b13c4de332c7": {
+    "website": "airbnb",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "73de3022-2f58-4bd4-8de6-4a201f2bbc98": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "3eae65d9-7778-4cf2-bc3d-f666b5e43bce": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "c1a354a1-7990-4ca8-9fc5-2fdb1b5df337": {
+    "website": "bookdepository",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "9a5aa299-e77d-44ca-ab0f-f6fd83e3fde1": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "7ce76343-dafe-4cf6-9bfd-918834d0c641": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "904bd858-1c40-4d22-9a5b-e2974c3b5a7e": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "227054d0-24f1-4f8a-9dcb-5146fac623f4": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "0245df99-2909-465a-861e-7fbca948e82f": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "0ff1648e-28bb-4014-9b8a-3c050c25e334": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "77be98ff-e4db-4745-9b87-6ce69754c4c2": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "ea8737b0-0ff4-4476-b97d-5677d4f526dc": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "d6c1c4f5-74a7-4451-8dd2-aabada5d7ba1": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "126b4604-8b04-4eb1-9027-266631c96f01": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "de1045f4-14ce-4de9-9aa8-601315b73b0e": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "d7ab9bf0-99e2-4f32-92c9-c1a10bc68f82": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "7a40f4c8-7aa6-4be4-abbe-24a0b511dc0e": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "82f654ab-fbfe-43f2-a2fe-0001b2ac853f": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "b7003092-3e6e-4fac-9867-083cac064f89": {
+    "website": "jetblue",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "55631305-2957-4343-b4f7-73aa68acba47": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "cdb6b70d-6083-49b5-908c-a6c0f711c175": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "8e721b00-f406-449b-9885-0267b47ecfdb": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "76294719-e146-4f92-986f-42b86a9808c7": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "e92a2c89-3310-434b-9543-a0d896881bb9": {
+    "website": "delta",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "7bda9645-0b5f-470a-8dd7-6af0bff4da68": {
+    "website": "exploretock",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "4b99412b-6be2-4274-8843-4fc97f0c8247": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "a10e6232-923d-4635-bdc8-c6d989380e45": {
+    "website": "apple",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "b770af80-75f0-470c-8797-1466d90c35ce": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "c7058499-3dc9-4175-9142-d22416d25a1f": {
+    "website": "seatgeek",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "1fefdb27-882b-481b-97e2-720f4d2338a3": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "cf361c84-6414-4b05-a7a1-77383997150a": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "d4f7da1f-2ed8-4110-8dea-35f07b7a1756": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "ac35e5a5-f52f-4886-9a23-65f0a6492c5e": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "6c107328-3ff6-4cb3-af16-5f9ca447fd66": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "f3850ec8-bf7c-42c3-9469-457836914f77": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "708cbe51-b493-41da-afa8-648564133972": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "1337eca1-4ca6-4102-964e-e7f6ecebcd0b": {
+    "website": "expedia",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "81835704-aebc-4600-abd4-02102509fda5": {
+    "website": "rentalcars",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "453da07e-cb2b-4f05-80c5-5b3bc6413086": {
+    "website": "carnival",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "e031c695-28e2-4507-949e-bbb65edf9f3d": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "14be9a2b-5559-423b-8362-4dccf306992e": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "5b56d5b8-1f41-43ca-9f21-369d849f1aa0": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "df3b7cd4-526e-453b-9114-c0db1b3ed5ea": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "e4f8a347-b288-4a00-9e6b-89cbccda42d2": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "f3bf7fe9-6987-4153-81b4-4b51fe25bbbc": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "d538537c-ff96-4918-8807-af09b26199d1": {
+    "website": "flightaware",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "969f36c3-52e7-42da-80bd-11a2d04d53ae": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "db289bef-3d18-43c6-8ee3-a1ebc5d285b4": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "54e0d420-ec89-456a-b179-67c6b4b4babc": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "4a4ecf18-e7a3-448a-b8cb-b337ee20048d": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "37564222-bb58-4a55-b47b-e9ffbbc1d160": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "dc2aa3f8-eda0-455b-98dc-adc56089259a": {
+    "website": "flightaware",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "e104a4ef-521f-4ca0-8e1a-098656207de2": {
+    "website": "carmax",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "bb02400d-e9da-416a-839a-0068f511a630": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "cd8d723a-7a9f-4bd6-a8b9-75babb60835c": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "9a9b1b45-cb23-4073-897f-67410087df9d": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "8b4e49e9-9802-4c1f-acb3-de06e38445e7": {
+    "website": "yellowpages",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "059327ab-e26e-4af6-9063-f58c50ecd2d2": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "1bd729e8-abb2-4649-bb81-8c790c04f8ad": {
+    "website": "menards",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "5f9182dc-d35d-4c0e-9abe-cd913c136528": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "ccd8d9f9-65f1-42ac-a699-5db7e380c760": {
+    "website": "flightaware",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "81fb481b-a234-4e25-b494-9ed26a03e977": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "a52774d2-550d-475a-922c-25c37d44557c": {
+    "website": "airbnb",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "91e18ec8-5eae-4b14-a49e-9ed7ee1ebb10": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "00cef5a2-4d07-4dd9-837d-5b85ac3a63d8": {
+    "website": "foxsports",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "229199b4-9988-485f-8175-b5efd8faf08b": {
+    "website": "yellowpages",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "cf8da12a-e1fd-48b5-8c53-b88f301ca1e0": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "c731e6d1-7194-4d16-a6a8-f5fc9be56a55": {
+    "website": "discogs",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "920f240d-77a9-476b-a1d4-dcc88d199bfa": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "b8cfdd2c-c48d-4a58-84fb-a88514baf637": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "c7b0d1bc-2a0c-4060-92dd-cd4b8721b625": {
+    "website": "koa",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "e344b89e-767a-4618-ba82-4b81cdcba280": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "93d0190f-ff39-4b69-82fc-58cddac42006": {
+    "website": "kbb",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "277a776a-b335-4761-a543-bed1c6eca1d6": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "7f0d7056-07f8-48b3-8093-e48abb301018": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "86ea50f5-1310-456e-97bf-799d8eb1896b": {
+    "website": "foxsports",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "64779409-c396-4779-a574-b219c3b22282": {
+    "website": "viator",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "af6655c8-0047-4c93-8da2-aeb04ff06b17": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "bb3e2b61-c14c-4a15-8de4-7c12256d52c7": {
+    "website": "seatgeek",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "bd32af6e-9fae-4968-b3e6-d143f148f5b8": {
+    "website": "discogs",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "8b079ace-b202-4d78-a9b0-4cde39e58934": {
+    "website": "enterprise",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "6b627cbc-a45e-4f7e-9d02-bfca1a41070a": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "2d18cb36-5628-49e8-a336-c25c153c5527": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "e5c228ff-7834-46d2-b906-dcea21a0c477": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "96fb7e5d-08b1-4def-a6f8-6ee81055d944": {
+    "website": "instacart",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "c4ca9c7a-d31a-4b3b-b6b4-c442854e9da1": {
+    "website": "boardgamegeek",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "4596152e-6589-4bf2-9c9f-dd3ed9e8c0dc": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "db53ba89-9cff-441a-a703-053e89e32961": {
+    "website": "imdb",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "8b130a70-f03a-4f86-8f2a-44f1b44f3655": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "ab23e83a-e3bd-4648-9d68-989f5c158d8f": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "978376c1-8545-4160-81d5-722bdea60434": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "e437082b-8383-4322-aa58-a6a683113970": {
+    "website": "qatarairways",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "97e3f951-891d-4626-8dbb-ab6e39261d05": {
+    "website": "expedia",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "ddee9314-5a29-4258-b11b-b6432ec719f1": {
+    "website": "eventbrite",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "6ca55141-9ba6-4ed7-8c07-77df6c24029d": {
+    "website": "ikea",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "9a462751-758e-42bd-967d-373c13b90382": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "ab1ae27a-029c-4f0c-9e01-82715e08d518": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "cd5d03cc-24a8-4284-ac43-b38579f416b1": {
+    "website": "qatarairways",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "5092fad7-ff8a-481e-bb0b-fe83590193ce": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "2705de3e-4461-4668-8573-8f10c1eb6641": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "b3a28e48-3912-4b0e-b3a9-d359da13864d": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "dfa415d9-efb2-4477-bc33-672f02d3399d": {
+    "website": "booking",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "14f5587e-1353-419e-a381-f92d54ea2059": {
+    "website": "foxsports",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "274571ea-fc2f-4353-86ba-00ecb112d6d2": {
+    "website": "target",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "8f41d9db-29fd-4c1b-9cbd-0f74fecdf520": {
+    "website": "mbta",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "90557510-32dc-415f-8507-41b050594962": {
+    "website": "amctheatres",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "af97084c-5b72-4fec-be1e-dcab0980b335": {
+    "website": "foxsports",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "c5cc7e71-6fd6-4a33-b450-89565dcff0a3": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "988ff1b8-c9e8-44af-a729-33f0e99c9dbf": {
+    "website": "kbb",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "0fc202d2-4c12-48ca-b04b-b667aac49156": {
+    "website": "cvs",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "fce75183-0825-42b1-baf3-a9214fe20ce9": {
+    "website": "foxsports",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "d6dd19a2-c57e-4e4d-b7e1-8919a86f1157": {
+    "website": "viator",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "401c4e6f-6b0b-47b4-8157-92d7ca468bbc": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "1c1af35c-a0d7-4fe8-bcd3-baf30862235b": {
+    "website": "travelzoo",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "549452ab-637a-4997-bce1-5898541bb288": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "f5d4d405-9714-47a5-a66a-49a899b16b97": {
+    "website": "nyc",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "254a67f6-3e37-4f12-838d-2d9fb0cedbf0": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "e12f51f6-c8c5-4a68-9586-d77927bca79c": {
+    "website": "tesla",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "73960473-941b-4e09-8eb1-f059b85c2dba": {
+    "website": "qatarairways",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "48ca542f-5346-40b9-b586-9294a2f64519": {
+    "website": "soundcloud",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "0b16b42c-dea7-4079-a2a8-79eb23447193": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "c73b1674-9c61-46a3-84dd-8fad3622a035": {
+    "website": "jetblue",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "d9e9c178-e945-49fe-9d06-a01cf02ab2db": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "122af0dc-9e4e-4c5a-98ad-5c4d02f32284": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "c44cfc8c-abea-4eef-838a-ba3a2716f8fa": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "14b5885e-5454-465f-92bf-d8f7315c4a46": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "5418beec-bc06-4e11-9664-4038fbdeefe9": {
+    "website": "gamestop",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "e84111f2-5193-421e-877a-9af8418b558a": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "d516b2f7-b180-422f-9e24-6fb778cb4b55": {
+    "website": "ultimate-guitar",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "be5e5f14-c875-4cfd-a517-175619491b90": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "2cb6558b-3dd7-4acd-a495-a4d3b96369ad": {
+    "website": "enterprise",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "f27bb47e-3aba-439a-b98a-2cf9b0e25e9c": {
+    "website": "viator",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "ddd935d4-9c28-4e64-bb4f-91ad1cb974dc": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "afb693cd-57cb-4468-9f7f-d965ee530913": {
+    "website": "cabelas",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "701bc7ed-4b55-4fd2-b333-128e55c0a4c2": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "8fb78266-8862-4608-9ff3-92f81e58b2ff": {
+    "website": "expedia",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "f4623be1-31c6-4546-a567-92bfd1da9cd7": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "7a698566-2a8f-4d9d-9da9-17288b66917f": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "549a9805-e404-4dcf-8c72-ddf46471114b": {
+    "website": "newegg",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "5f2c3149-1820-4632-bfdb-3cf4615de2cc": {
+    "website": "amazon",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "9ebd069a-7703-47b5-9c75-53958637e7c0": {
+    "website": "nfl",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "1655f54a-31e5-4dda-9089-7ccff35a1095": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "7bdf34b4-2aa0-4387-9f6a-f7d7c5d17119": {
+    "website": "nps.gov",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "00deddc4-8991-47b5-92f1-f9eb88011b16": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "8dc49f67-4803-416a-8d05-d6e891e3efc0": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "f84075a2-9d97-4964-9c80-70f5bee8a418": {
+    "website": "delta",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "92b51ef3-7b37-4423-aa6b-e8fb6bf32156": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "763deda0-f51c-4520-b102-5277f702e8bd": {
+    "website": "ign",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "6a9a2e52-24b4-46c3-9e52-0f79c15ae3d0": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "913b902b-37b7-4230-a0f2-a19931b06951": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "4498c83b-029f-4f1e-af81-722de20160e2": {
+    "website": "amtrak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "cc27fdda-c68f-4d43-bbcb-6c7954bf00ec": {
+    "website": "target",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "08a0c5cc-41a9-4eb8-b3ea-91d9e26f8bd3": {
+    "website": "koa",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "7219145b-ada1-480e-a8ea-f4fe164ca84a": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "f408cdf3-06c8-459c-ba08-71bd471341a0": {
+    "website": "yelp",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "4f069a59-c53b-4efe-bcfb-fc9fd864ea2e": {
+    "website": "ebay",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "94bd2a0f-fe08-4420-a0e8-d48248630b6e": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "b3c7e28e-00a2-4ef7-89c5-f3ad7efadd6a": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "3110612f-63fe-4a7a-98d0-29c806d6a34f": {
+    "website": "thetrainline",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "edb8e817-e9d7-45eb-9706-01967e3a0fe8": {
+    "website": "cargurus",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "b1055658-7993-448c-9af6-a722cf69ff97": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "42657330-bfc5-425d-ae21-396a9ba1fb12": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "06a6d90b-071d-4644-8372-b928e99ae970": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "9b18e5e4-4873-49bf-b422-c3f5bc5d1f33": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "e6c7934b-6949-46ee-8f72-edb46abd3da7": {
+    "website": "foxsports",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "1d173ebb-ff7a-4e6b-9911-0f0349f9a174": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "6c28458c-ba2a-41a5-b5c2-948f2954c25b": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "f804150b-c2e9-40ca-b71f-d0d0d95e0c46": {
+    "website": "aa",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "efe9051b-d626-443c-b8c8-e7844a0acd29": {
+    "website": "soundcloud",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "95619447-fe28-4cc0-9e0a-d888e5f73d7e": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "351568c6-452d-4f32-9375-2b6301f0cb36": {
+    "website": "new.mta.info",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "4c623130-32db-4cc8-928a-68b0bc816efc": {
+    "website": "soundcloud",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "78915162-53c9-4cb1-86e1-6be6047528e0": {
+    "website": "seatgeek",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "04d45cb8-136b-419a-a324-dfbc5e93b7a2": {
+    "website": "agoda",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "8b6eed27-39b4-4dbc-97d3-eeec13a8817d": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "1f28fed3-bed9-444a-bf2b-3700b516b97f": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "fdcac1e8-1dd0-4846-b2cf-16d916ea9e17": {
+    "website": "ticketcenter",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "f7c2c65f-9415-4e1e-8ce7-a2e22ff2492c": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "cb07d410-75ff-483a-920c-3ce2a295524f": {
+    "website": "nfl",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "9572e7bd-0365-4339-899d-1d1dc8504543": {
+    "website": "enterprise",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "16886ec7-3301-4103-b175-9fa817335984": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "883fc533-d267-4eeb-8ccd-fe77bc28cd9b": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "ef23fbf3-f05e-41e2-b847-a27028f42470": {
+    "website": "resy",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "725c38e7-7987-40b3-8f19-8450f8277f06": {
+    "website": "ryanair",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "44ad28c9-c0d6-4d41-a49d-afeaa6ecaabe": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "3d83f3de-58f2-4aba-9b02-4a230d35a4ef": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "70b3ef5b-d900-44cf-9b62-9ecece97954c": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "e6643cfb-567e-4e11-8cab-f85483573539": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "627a99f1-b2e4-4ce4-93f5-89e691f8c879": {
+    "website": "espn",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "d56df06a-8234-4f31-8737-e74fe9d5fa04": {
+    "website": "thetrainline",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "9e9d7935-0c16-46e6-9e5c-3ea9124a6bf7": {
+    "website": "soundcloud",
+    "domain": "Entertainment",
+    "steps_bucket": "l"
+  },
+  "1d0dcb84-da65-4830-ba60-cc2b09a52a13": {
+    "website": "ikea",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "c254dcec-bd9b-4cf0-9225-9d2bf1345f38": {
+    "website": "foxsports",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "240952bd-853b-4653-a358-49c2784cf568": {
+    "website": "amtrak",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "36ab5d78-2f6b-47a6-ad88-3f6c8fdc3513": {
+    "website": "amctheatres",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "6803cd71-78a9-4bff-a1a3-1153dcc28c11": {
+    "website": "target",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "fbefeb82-f3e6-4db4-acc6-a68b1d519ba7": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "f8089c50-e80c-4532-82a1-96009f485c57": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "90a0f029-c1af-4dd7-8ccd-c4c2a74e8731": {
+    "website": "united",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "d0ac6860-23f7-40c1-b30d-12269470d2c3": {
+    "website": "instacart",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "8865ca64-0df2-4e3f-905d-a9e07e1eeb68": {
+    "website": "rei",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "0692908b-4bf4-48ac-b41a-37c59ea5ba1d": {
+    "website": "sports.yahoo",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "593830ff-fd2c-4479-abf8-8fddee2cdaea": {
+    "website": "budget",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "618dbd1f-16e6-442e-ba3b-364c6dbda810": {
+    "website": "ikea",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "d88f70e8-9b66-4f08-9aa4-e49375b14920": {
+    "website": "kayak",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "0991035b-6acb-4dca-aaef-5384a0739781": {
+    "website": "flightaware",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "1c6bfd10-4dcb-4a5c-bb2d-922ff9f20087": {
+    "website": "amazon",
+    "domain": "Shopping",
+    "steps_bucket": "l"
+  },
+  "bba6dd60-babd-4d8d-9e8b-242b0ffc08d7": {
+    "website": "spothero",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "479bdc82-ec52-447b-a577-fa2bcdc3886f": {
+    "website": "ikea",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "61d28a34-cc8e-46a9-b41d-c95933de2214": {
+    "website": "ultimate-guitar",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "daec5481-187d-4e2f-9dae-a11892cdadf2": {
+    "website": "thetrainline",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "ca80bb42-2617-4f29-bbcd-bcc426b3e407": {
+    "website": "flightaware",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "0fb1c90e-a494-4de9-86ac-d4e5366869c4": {
+    "website": "tesla",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "6df317e6-3414-4f2e-b5fc-b70914def4eb": {
+    "website": "last.fm",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "64051efe-53dc-4e79-9980-c3d75d34c4aa": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "9ed8cd2a-b0f8-4ccf-9d48-1ddfba4f5e58": {
+    "website": "parking",
+    "domain": "Travel",
+    "steps_bucket": "m"
+  },
+  "eb9995b5-261b-4659-bebc-951e0f855d75": {
+    "website": "target",
+    "domain": "Shopping",
+    "steps_bucket": "m"
+  },
+  "099a9da4-c8db-4900-ada2-76600f3655a4": {
+    "website": "uniqlo",
+    "domain": "Shopping",
+    "steps_bucket": "s"
+  },
+  "2ef470ab-b06a-4479-883f-78b4e3b94a04": {
+    "website": "marriott",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "2e2cb6d9-560c-4258-baed-82e0ed5b5dbc": {
+    "website": "us.megabus",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "8f4a020d-ac81-4d20-ae3a-02808faaba4e": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "l"
+  },
+  "867dc9d1-5017-4871-a52a-a1511f239628": {
+    "website": "rottentomatoes",
+    "domain": "Entertainment",
+    "steps_bucket": "m"
+  },
+  "e0feee24-dfed-454a-aa40-eda244f1d044": {
+    "website": "sixflags",
+    "domain": "Travel",
+    "steps_bucket": "s"
+  },
+  "a1d1f6c0-1ae9-47f0-b054-8f3f9935b7da": {
+    "website": "nfl",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  },
+  "3c9442f9-5542-4395-918a-6551dbba3e3a": {
+    "website": "store.steampowered",
+    "domain": "Entertainment",
+    "steps_bucket": "s"
+  }
+}

@@ -1,0 +1,9 @@
+{
+ "archive_cap": 8,
+ "refine_val_n": 96,
+ "reserve": 2400,
+ "rw_every": 1,
+ "tourn_seats": 3,
+ "w_size": 4,
+ "sampling_id": "stratune_mind2web_r1"
+}

@@ -1,0 +1,7 @@
+{
+ "exam_random": 24,
+ "exam_regression": 24,
+ "max_epochs": 6,
+ "sampling_id": "stratune_livemath_r1",
+ "global_stats": true
+}

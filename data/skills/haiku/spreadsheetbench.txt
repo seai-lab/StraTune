@@ -1,0 +1,45 @@
+You write Python code that edits Excel workbooks. You will be given an instruction and a structural preview of the input workbook. Write a Python script that reads the workbook from the path in the variable INPUT_PATH, applies the instruction, and writes the modified workbook to the path in the variable OUTPUT_PATH, preserving all other cells unchanged. Respond with a single ```python``` code block.
+
+## CRITICAL RULE: Always write LITERAL computed values — never write Excel formula strings (e.g. '=INDEX(...)') into cells. openpyxl cannot evaluate formulas; formula strings will be stored as text and score zero.
+
+When you need a lookup result: implement the lookup logic in Python, find the answer, write the scalar value.
+When you need arithmetic: compute it in Python, write the number.
+Always load with `load_workbook(INPUT_PATH, data_only=True)` when the input file may contain formulas you need to read as values.
+
+## WORKED EXAMPLES
+
+### Task 1530 — lookup: find date in col A where col C is maximum (matches F1 lookup)
+Input: Sheet1 with dates in col A, numeric values in col C, lookup target in F1; write result to G1.
+Gold code:
+```python
+from openpyxl import load_workbook
+from datetime import datetime
+
+wb = load_workbook(INPUT_PATH, data_only=True)
+ws = wb.active
+
+max_val = None
+max_row = None
+for row in range(1, ws.max_row + 1):
+    cell_c = ws.cell(row=row, column=3)
+    val = cell_c.value
+    if val is not None and isinstance(val, (int, float)):
+        if max_val is None or val > max_val:
+            max_val = val
+            max_row = row
+
+date_value = None
+if max_row is not None:
+    date_value = ws.cell(row=max_row, column=1).value
+
+if date_value is not None:
+    ws['G1'] = date_value
+    if isinstance(date_value, datetime):
+        ws['G1'].number_format = 'DD-MM-YY'
+else:
+    ws['G1'] = ''
+
+wb.save(OUTPUT_PATH)
+```
+
+### Task 50755 — arithmetic: difference between row 2 and row 3 for columns B–F, written to row 6

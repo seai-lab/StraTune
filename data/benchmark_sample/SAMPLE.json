@@ -1,0 +1,20 @@
+{
+ "sample": true,
+ "description": "Small subset of the four benchmarks for running the code; not the paper's splits.",
+ "counts": {
+  "livemath/train": 40,
+  "livemath/test": 20,
+  "mind2web/train": 40,
+  "mind2web/test": 20,
+  "spreadsheetbench/train": 40,
+  "spreadsheetbench/test": 20,
+  "docvqa/train": 40,
+  "docvqa/test": 20
+ },
+ "selection": {
+  "docvqa": "the tasks with the smallest document images",
+  "spreadsheetbench": "the tasks with the smallest workbook directories",
+  "livemath": "first ids of task_ids.json",
+  "mind2web": "first ids of task_ids.json"
+ }
+}

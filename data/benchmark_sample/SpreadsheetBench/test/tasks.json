@@ -1,0 +1,382 @@
+[
+ {
+  "id": "516-46",
+  "dir": "spreadsheet/516-46",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I need a macro that extracts data from a range beginning at cell A2, extending across multiple columns to column E, and displays the results from cell H2 onwards. The extraction should be based on the last date in my dataset per brand. Additionally, combine any multiple entries by brand and qty using the last date for each brand. For example, if 'camera' appears twice on the last date with a value of 20 each, the result should display a single entry with the sum of 40 for the most recent date and brand. The result should also show the modifications for duplicated last dates.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'ورقة1'!H2:L4",
+  "answer_sheet": "ورقة1",
+  "data_position": "A1:L8",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_516-46_init.xlsx",
+    "golden": "1_516-46_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "438-18",
+  "dir": "spreadsheet/438-18",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "How can I replace specific values in an array with new values while copying data from a 'sheet INPUT' to designated 'sheet OUTPUT' in Excel? In the 'sheet INPUT', column F contains values ('UNATIDE STATES AMERICAN', 'FRANCE', 'KOREA', 'GERMANY', 'ITALY'), which need to be replaced by the corresponding shortened values ('USA', 'FRA', 'KOR', 'GR', 'IT') respectively, and this result should appear in the 'sheet OUTPUT', maintaining the rest of the data intact.\nrespectively.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'OUPUT'!A1:D6",
+  "answer_sheet": "OUPUT",
+  "data_position": "INPUT!'A1:F6,'OUPUT!'A1:D6'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_438-18_init.xlsx",
+    "golden": "1_438-18_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "448-11",
+  "dir": "spreadsheet/448-11",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I found a code in this forum that highlights and deletes duplicate rows within the current region in Excel, using the entire row content for comparison. The existing code successfully identifies and highlights entire rows that are duplicates and then deletes them. However, I need to modify the code so that it deletes duplicate rows based only on the data in Column A, ignoring whether the other columns from B to the last column match or not. How can this be achieved?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A2:J16",
+  "answer_sheet": "Sheet1",
+  "data_position": "A2:J30",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_448-11_init.xlsx",
+    "golden": "1_448-11_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "367-23",
+  "dir": "spreadsheet/367-23",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I have written a macro that should delete rows from a worksheet named 'Final Recon Items' where the values in column D (4th column), containing positive or negative values of 0.01, sum up to zero. The macro I've attempted to use is not working as expected; it fails to delete the relevant rows even though the sum of the values appears to be zero. However, a forum expert pointed out that the actual values include slight variations due to precision, such as -1.00000000093132E-02, -9.99999999476131E-03, 9.9999999802094E-03, and 1.00000000020373E-02, which are not strictly equal to zero. The expert suggested using an absolute value check with a threshold of 0.011 to identify values that are effectively zero for the purpose of deletion, but implementing this results in a runtime error 'Type Mismatch' and I am unable to resolve it. Additionally, it was mentioned that in the first row of column 4 there's a non-numeric value 'Amount' which could be related to the issue. I need help in correcting the macro code to perform the intended row-deletion operation accurately.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'final Recon Items'!A1:D5",
+  "answer_sheet": "final Recon Items",
+  "data_position": "A1:D5",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_367-23_init.xlsx",
+    "golden": "1_367-23_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "290-1",
+  "dir": "spreadsheet/290-1",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I have a data set that is currently manually transposed in columns K to V, and I would like a macro to automate this process for data that will likely span around 2,000 rows. The relevant data is evidenced in the file that I have attached. I have given some examples in the answer attachment, please help me complete the rest of the answer. Note the position correspondence. Don't change any formatting",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "K2:U10",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:I23",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_290-1_init.xlsx",
+    "golden": "1_290-1_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "374-18",
+  "dir": "spreadsheet/374-18",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I attempted to write a macro to delete all rows in Column E of the 'Imported Data' sheet that have values less than 1, but I received a compile error (\"End If without Block If\"). Please correct and test the code so it runs successfully without adding or removing any sheets or columns, and ensure it efficiently deletes all rows in Column E where the value is < 1 while keeping the header intact. The macro should execute directly on the 'Imported Data' sheet.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A2:G6",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:G6",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_374-18_init.xlsx",
+    "golden": "1_374-18_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "567-21",
+  "dir": "spreadsheet/567-21",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I need assistance with creating a macro for a worksheet containing over 100,000 rows of data. The macro should compare account numbers in column A with an associated number in column B and a date formatted like '2020/10' in column E. Then, it should keep only the rows with the most recent date for each account number and associated number pair, deleting the others. However, it should not delete rows if multiple entries for an account number with the same second number in column B share the same most recent date. Can this macro be efficient to avoid using excessive computer resources?If based on the earlier request to locate the associations between column A, B & E and then save only the most recent date field (column E) for those associations, I need to save any/all associations that have the same most recent dates if they exist, etc.  Additionally, if there is no date in column E, then those rows can be deleted too. Perform this task.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A3:G28",
+  "answer_sheet": "Sheet1",
+  "data_position": "A3:G28",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_567-21_init.xlsx",
+    "golden": "1_567-21_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "269-44",
+  "dir": "spreadsheet/269-44",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "In my Excel sheet named 'Import Data,' I am trying to create a macro that will delete the four rows located immediately before each instance of the text 'Chassis' in column A. Make sure that the two \"Chassis\" texts are located in A2 & A3.  However, my current VBA code is not functioning properly. Can someone assist me in correcting this code so that it will carry out the task as intended?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A1:A15",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:A15",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_269-44_init.xlsx",
+    "golden": "1_269-44_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "388-47",
+  "dir": "spreadsheet/388-47",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I am attempting to write VBA code or other viable solution to delete all rows in a worksheet where the items beginning with 'Z1' or 'X1' appear in column E. The code I tried is as follows: 'With Sheets(1) .Range(\"A1\").AutoFilter 5, Array(\"Z1*\", \"\", \"X1*\"), xlFilterValues .AutoFilter.Range.Offset(1).EntireRow.Delete .AutoFilterMode = False End With'. Can someone assist me in correcting or improving my code so that it functions as intended?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A2:E8",
+  "answer_sheet": "Sheet1",
+  "data_position": "Sheet1!'A7:E12,'Original Data!'A1:E12'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_388-47_init.xlsx",
+    "golden": "1_388-47_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "156-14",
+  "dir": "spreadsheet/156-14",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I attempted to write VBA code that would delete rows from row 6 onward if the cell in column F contains the text \"to be processed\" on three specific sheets named \"99250,\" \"99251,\" and \"99252.\" However, I encountered a runtime error stating that the object doesn't support the property or method. Here is the original code that caused the error: With Sheets(Array(\"99250\", \"99251\", \"99252\")) .Range(\"F5\").AutoFilter 6, \"*Accepted*\" .AutoFilter.Range.Offset(1).EntireRow.Delete .AutoFilterMode = False End With. I need help executing the same function without VBA to get my desired result.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'99250!A1:F9','99251!A1:F9','99252!A1:F8'",
+  "answer_sheet": "'99250','99251','99252'",
+  "data_position": "99250!'A1:F9,'99251!'A1:F9,'99252!'A1:F8'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_156-14_init.xlsx",
+    "golden": "1_156-14_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "334-11",
+  "dir": "spreadsheet/334-11",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "Provide solution other than VBA or How can I modify my VBA code to delete both blank rows and rows with values between 1 and -1 (inclusive) in Column C of an 'Imported Data' sheet? My current code is not effectively removing the rows with values between 1 and -1 even though I have already highlighted them to be deleted.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'imported Data'!C1:C7",
+  "answer_sheet": "imported Data",
+  "data_position": "C1: C7",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_334-11_init.xlsx",
+    "golden": "1_334-11_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "374-31",
+  "dir": "spreadsheet/374-31",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "How can I modify my existing VBA code to only delete the blank rows that appear above a cell with the text \"Code\" in column A, while preserving any blank rows below it?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A1:D5",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:D5",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_374-31_init.xlsx",
+    "golden": "1_374-31_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "486-17",
+  "dir": "spreadsheet/486-17",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I have a list of numbers in cells that represent dates, formatted as '0yyyymmdd' without spaces (e.g., 020210305 for March 5, 2021). I need to use a macro to reformat these numbers to include spaces, resulting in the format 'yyyy mm dd'. How can I accomplish this with a macro? Start in B2, no header.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Blad1'!B2:B130",
+  "answer_sheet": "Blad1",
+  "data_position": "A1:A130",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_486-17_init.xlsx",
+    "golden": "1_486-17_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "359-21",
+  "dir": "spreadsheet/359-21",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I created a macro to delete rows in which specific conditions are met in a particular column. The macro operates properly with small datasets but becomes very slow with larger ones. Is there a way to improve or modify the macro to speed up the process? Here is the code for the macro I'm using: Sub Delete_rows() Application.ScreenUpdating = False Application.DisplayAlerts = False Dim sh1 As Worksheet Dim lastrow As Long Dim i As Long Set sh1 = ThisWorkbook.Worksheets(\"Delete\") lastrow = sh1.Cells(Rows.Count, \"A\").End(xlUp).Row For i = lastrow To 2 Step -1 If sh1.Cells(i, \"B\").Value = \"STATIONERY\" Or sh1.Cells(i, \"B\").Value = \"VEGETABLES\" Then sh1.Cells(i, \"A\").EntireRow.Delete End If Next i Application.ScreenUpdating = True Application.DisplayAlerts = True End Sub",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Delete'!A1:B9",
+  "answer_sheet": "Delete",
+  "data_position": "A1:B9",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_359-21_init.xlsx",
+    "golden": "1_359-21_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "409-45",
+  "dir": "spreadsheet/409-45",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I need a macro that deletes empty rows based on the value of cell I2. The macro should have two conditions. First, it should match an ID in column B and then delete rows within a specific range based on that ID. Secondly, if cell I2 is empty, the macro should delete all empty rows from all ranges. The result should appear in the first sheet, not the second sheet as it currently does. Additionally, I've observed that even when the macro works, it leaves one empty row in the last range, which I would like to be removed as well.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'DATA'!A1:E19",
+  "answer_sheet": "DATA",
+  "data_position": "DATA!'A1:E19,'desired result!'A1:E11'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_409-45_init.xlsx",
+    "golden": "1_409-45_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "236-22",
+  "dir": "spreadsheet/236-22",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I've created a macro to remove blank rows in Column A, but I need to adjust it so that it also deletes the row directly above each blank row. It's crucial that rows with data in Column A right below headers, which contain the term 'Line No', remain untouched. In particular, rows 2 & 9 should not be deleted, as they have important data. I need this macro to function on multiple sheets, beginning with sheet 'BR1' onwards. Can someone help me modify my code to achieve this?\n\nIn other words, every time “Line No” appears in column A and the cell below that is blank, delete both the row containing “Line No” and the row below.\nThe data currently spans A1:E16",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A1:E7",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:E16",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_236-22_init.xlsx",
+    "golden": "1_236-22_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "147-48",
+  "dir": "spreadsheet/147-48",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I want to create a macro or transpose data similar to how I manually transposed data from Column A to Column C onwards. The data I've shown is a trimmed version, whereas the actual file is much longer. However, when I tried the macro provided by a forum user, it resulted in a 'run time error 7 out of memory'. After an adjustment was suggested to the macro code, it worked correctly.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!C1:K6",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:H23",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_147-48_init.xlsx",
+    "golden": "1_147-48_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "416-27",
+  "dir": "spreadsheet/416-27",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I have written a macro intended to delete all blank rows in Column A, starting from the  row thatthe first value in that column appear and stopping at the last row . However, the macro fails to remove these empty rows. Please analyze my macro, determine what corrections are needed, and modify it as necessary. The existing macro is as follows: Sub Del_Blanks()\nDim LR As Long, I As Long\nLR = Range('A' & Rows.Count).End(xlUp).Row\nFor I = LR To 4 Step -1\n\nOn Error Resume Next\nColumns(I, 1).SpecialCells(xlCellTypeBlanks).EntireRow.Delete\nOn Error GoTo 0\nNext I\n\nEnd Sub. Additionally, a forum contributor has suggested that using AutoFilter to filter on blanks in Column A and then deleting the visible rows might be a better solution, particularly for large datasets, but I have not tried this method yet.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A3:A24",
+  "answer_sheet": "Sheet1",
+  "data_position": "A3:A24",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_416-27_init.xlsx",
+    "golden": "1_416-27_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "160-6",
+  "dir": "spreadsheet/160-6",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "I have a dataset in an Excel sheet named \"SH\" that contains blank rows interspersed among the data. I need a macro that can delete these blank rows by shifting the remaining rows upward so that there are no gaps, with the next filled row moving just below the last filled row of the dataset. I attempted to write a macro myself to perform this task on a different sheet named \"CP\", but it did not function correctly when I ran it. Could someone please debug and correct my code?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'SH'!A6:L11",
+  "answer_sheet": "SH",
+  "data_position": "A1:L14",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_160-6_init.xlsx",
+    "golden": "1_160-6_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ },
+ {
+  "id": "178-22",
+  "dir": "spreadsheet/178-22",
+  "payload": "spreadsheetbench_verified_400",
+  "instruction": "Extract rows from Sheet1 where column B equals 'TELIVISION' OR column C equals 'CLASS III' OR column C equals 'CLASS IV'. Put the results in Sheet2 starting at A3 with headers in A2",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet2'!A1:C18",
+  "answer_sheet": "Sheet2",
+  "data_position": "Sheet1!'A1:C18,'Sheet2!'A1:C18'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_178-22_init.xlsx",
+    "golden": "1_178-22_golden.xlsx",
+    "naming": "standard"
+   }
+  ],
+  "prompt_file": "prompt.txt"
+ }
+]

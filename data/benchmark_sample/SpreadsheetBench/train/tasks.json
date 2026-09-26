@@ -1,0 +1,1070 @@
+[
+ {
+  "id": "115-31",
+  "dir": "spreadsheet/115-31",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How can I transfer data from the 'CS' sheet to the 'S' sheet and remove the brackets from the values using VBA code, ensuring that the 'CS' sheet remains unaffected?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'CS!'B1:B8,'S!'B1:B8",
+  "answer_sheet": "CS,S",
+  "data_position": "CS!'B1: B8,'S!'B1:B8'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_115-31_input.xlsx",
+    "answer": "1_115-31_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_115-31_input.xlsx",
+    "answer": "2_115-31_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_115-31_input.xlsx",
+    "answer": "3_115-31_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "122-5",
+  "dir": "spreadsheet/122-5",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How can I amend my VBA macro to delete rows in Column L of a sheet named 'PL Recon Items', where there are numeric values greater than +0.05 or less than -0.05, while excluding the deletion of rows with values between +0.01 and +0.05 or between -0.01 and -0.05?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'PL Recon ItemsSheet1'!A2:L18",
+  "answer_sheet": "PL Recon ItemsSheet1",
+  "data_position": "A1:M18",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_122-5_input.xlsx",
+    "answer": "1_122-5_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_122-5_input.xlsx",
+    "answer": "2_122-5_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_122-5_input.xlsx",
+    "answer": "3_122-5_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "131-38",
+  "dir": "spreadsheet/131-38",
+  "payload": "all_data_912_v0.1",
+  "instruction": "In my VBA code, when I try to insert a column and then sum adjacent cells across multiple rows, the formula that gets inserted is not updating correctly for each row. It should create a sum formula for each row, starting with =sum(C2:D2) for the first row, then =sum(C3:D3) for the second, and so on, incrementing the row reference in the formula for each subsequent row. However, the formula remains as =sum(C2:D2) for all rows instead of updating to reference the correct row. I've attached the file with the code where I am facing this issue.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!D2:D10",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:C10",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_131-38_input.xlsx",
+    "answer": "1_131-38_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_131-38_input.xlsx",
+    "answer": "2_131-38_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_131-38_input.xlsx",
+    "answer": "3_131-38_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "203-16",
+  "dir": "spreadsheet/203-16",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need a macro that counts the words in each new row above an empty row in an Excel spreadsheet. I have manually entered counts in B1 and B19 for reference. The actual document will have more empty rows beyond these examples, which I've removed for this sample. Essentially, the macro should count the words for each filled row until an empty row is reached and then display the count in the corresponding cell in column B.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!B19",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:B76",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_203-16_input.xlsx",
+    "answer": "1_203-16_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_203-16_input.xlsx",
+    "answer": "2_203-16_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_203-16_input.xlsx",
+    "answer": "3_203-16_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "21-16",
+  "dir": "spreadsheet/21-16",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I attempted to use a VBA macro to transpose data from a column to a row in Excel for items that have duplicates in column A. I am working with two sheets: the original data resides in a sheet named 'Orig Data,' and I want to place the result in another sheet named 'FinalReport.' Additionally, I don't want to use Power Query because I'm using Excel 2010 which doesn't support it; I'm specifically looking for a VBA solution.  In addition, answers should be printed in the \"FinalReport\" table, starting in the second row. I have provided part of the sample in the table \"FinalRepor\", when you output the answer, please start from cell A1, covering the corresponding sample position.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "FinalReport'!A2:F5",
+  "answer_sheet": "FinalReport",
+  "data_position": "'FinalReport!A2:F5','Orig Data!A1:B10'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_21-16_input.xlsx",
+    "answer": "1_21-16_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_21-16_input.xlsx",
+    "answer": "2_21-16_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_21-16_input.xlsx",
+    "answer": "3_21-16_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "211-13",
+  "dir": "spreadsheet/211-13",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I have a column starting at cell A8, extending to the last populated row in the column, that contains numbers with incorrect formatting; specifically, leading, trailing, and internal spaces have been introduced within these cells. I attempted to create a VBA macro to rectify this by removing all spaces from these cells, but I haven't succeeded. Could you provide a solution to eliminate all types of spaces from these cells using VBA?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'customer numbers'!A8:A12",
+  "answer_sheet": "customer numbers",
+  "data_position": "A7:B12",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_211-13_input.xlsx",
+    "answer": "1_211-13_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_211-13_input.xlsx",
+    "answer": "2_211-13_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_211-13_input.xlsx",
+    "answer": "3_211-13_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "212-45",
+  "dir": "spreadsheet/212-45",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need assistance with a macro that can delete entire rows on the active worksheet where column 14 contains the word \"ineligible\". The relevant data starts from row 4. A sample file named 'Delete rows.xlsm' is attached for reference.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A3:N29",
+  "answer_sheet": "Sheet1",
+  "data_position": "A3:N29",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_212-45_input.xlsx",
+    "answer": "1_212-45_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_212-45_input.xlsx",
+    "answer": "2_212-45_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_212-45_input.xlsx",
+    "answer": "3_212-45_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "212-7",
+  "dir": "spreadsheet/212-7",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need a macro for Microsoft Excel 2010 that can delete entire rows if any cells within column C contain any of the specified letters, which are D, L, N, T, R, or S. The result should exclude rows with these letters in that column, such that the remaining rows are those without these letters in column C, for example, keeping rows like 'DN 2 BGH AA HANDBAG s 26905 AABDGHN', 'DN 5 BHY AA HAYBAND s 28822 AABDHNY', and 'DN 6 BMN AA MANBAND s 28323 AABDMNN'. I have attached a spreadsheet named 'DELETE rows.xlsx' for reference.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A1:I10",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:I10",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_212-7_input.xlsx",
+    "answer": "1_212-7_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_212-7_input.xlsx",
+    "answer": "2_212-7_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_212-7_input.xlsx",
+    "answer": "3_212-7_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "22-47",
+  "dir": "spreadsheet/22-47",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need to sort data in column B based on a helper column (J) so that the first entries written in column I are shown first in the output range F:H. Names not listed in column I should be arranged as they are in the original data. The sort should skip empty cells, headers, and duplicate items, where duplicates are defined by identical entries in both column B and C, not just column B. If the helper column I is empty, the sort should default to alphabetical order (A-Z) and still skip empty cells, headers, and duplicate items. Additionally, I need this sorting process to handle new ranges that contain headers and some names in range A:C, as well as changes in the names listed in the helper column I. The final answer should be outputed in columns G and H.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "F2:H10",
+  "answer_sheet": "sheet1",
+  "data_position": "sheet1!A1:j24',',ورق1!B1:B11'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_22-47_input.xlsx",
+    "answer": "1_22-47_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_22-47_input.xlsx",
+    "answer": "2_22-47_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_22-47_input.xlsx",
+    "answer": "3_22-47_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "225-4",
+  "dir": "spreadsheet/225-4",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need a VBA macro that will process my data, which is imported with dates in a specific format followed by other characters. Specifically, I require the macro to remove all data including any spaces after the date entries and convert these date entries from the format 'yyyy.mm.dd' to 'dd/mm/yyyy'. For example, the date '2022.06.21' followed by any text such as ' K1' should result in just the date '21/06/2022'.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Statement'!B2:B6",
+  "answer_sheet": "Statement",
+  "data_position": "A1:G6",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_225-4_input.xlsx",
+    "answer": "1_225-4_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_225-4_input.xlsx",
+    "answer": "2_225-4_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_225-4_input.xlsx",
+    "answer": "3_225-4_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "228-19",
+  "dir": "spreadsheet/228-19",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I have written code intending to delete rows in Column A of an Excel worksheet where each cell's content includes any of the letters X, U, or Z. These could be part of text or numbers such as '11100X', 'X514165', 'U99914', 'Z00015', or 'ZZZZZZ'. However, I encountered a runtime error stating 'Invalid procedure call or argument.' I had highlighted the rows to be deleted in yellow. Can someone test my code and provide the necessary amendments? Here is the code I've been working with: Sub Delete_X_U_and_Z() Dim finalrow As Long With Sheets('Consolidated BEE') finalrow = .Cells('A65536').End(xlUp).Row For I = finalrow To 2 Step -1 If .Cells(I, 1).Value Like '*[XZU]*' Then .Cells(I, 1).EntireRow.Delete End If Next I End With End Sub",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A1:A14",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:A14",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_228-19_input.xlsx",
+    "answer": "1_228-19_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_228-19_input.xlsx",
+    "answer": "2_228-19_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_228-19_input.xlsx",
+    "answer": "3_228-19_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "275-49",
+  "dir": "spreadsheet/275-49",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How do I create A macro in Excel that will merge columns B, C, and D into a single column, with the result referenced to column G:I, and produce the result in columns A, B, and C",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A1:I7",
+  "answer_sheet": "SPLIT",
+  "data_position": "A1:I7",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_275-49_input.xlsx",
+    "answer": "1_275-49_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_275-49_input.xlsx",
+    "answer": "2_275-49_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_275-49_input.xlsx",
+    "answer": "3_275-49_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "282-45",
+  "dir": "spreadsheet/282-45",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How can I modify my VBA macro to delete all rows in column A from the top of the sheet up to one row before the row where the word 'Serial' first appears in 'Imported Data' sheet?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A1:A22",
+  "answer_sheet": "Imported Data",
+  "data_position": "A1:A22",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_282-45_input.xlsx",
+    "answer": "1_282-45_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_282-45_input.xlsx",
+    "answer": "2_282-45_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_282-45_input.xlsx",
+    "answer": "3_282-45_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "289-3",
+  "dir": "spreadsheet/289-3",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need a VBA macro that can remove leading and trailing spaces for each item in cells and reduce any instances of multiple consecutive spaces between items within cells to just one space. This macro should be applied to columns B, C, and D across all sheets in a workbook. Please ensure that each data location remains unchanged.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "MAIN'!A1:E9",
+  "answer_sheet": "MAIN'",
+  "data_position": "MAIN!A1:E9'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_289-3_input.xlsx",
+    "answer": "1_289-3_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_289-3_input.xlsx",
+    "answer": "2_289-3_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_289-3_input.xlsx",
+    "answer": "3_289-3_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "30-27",
+  "dir": "spreadsheet/30-27",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How can I amend my VBA code to delete rows in an Excel sheet where cells in column I from the second row down contain the text 'Not Found'? The code should only remove columns A to I and leave any data in columns beyond I untouched. Moreover, I attempted to adapt a suggested solution using Autofilter, but couldn't make it work on the 'Courtesy Vehicles' sheet. The goal is to avoid using a loop to delete these rows more efficiently.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A1:I8",
+  "answer_sheet": "Courtesy Vehiicles",
+  "data_position": "A1:I8",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_30-27_input.xlsx",
+    "answer": "1_30-27_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_30-27_input.xlsx",
+    "answer": "2_30-27_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_30-27_input.xlsx",
+    "answer": "3_30-27_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "300-19",
+  "dir": "spreadsheet/300-19",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How do I remove the percentage symbol and clear the contents of a cell with a value of 0 from a specific column of an Excel worksheet.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A1:CW14",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:CW14",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_300-19_input.xlsx",
+    "answer": "1_300-19_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_300-19_input.xlsx",
+    "answer": "2_300-19_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_300-19_input.xlsx",
+    "answer": "3_300-19_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "300-35",
+  "dir": "spreadsheet/300-35",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I have a list that requires macro automation to insert rows. I have been doing it manually, as exemplified by the two rows I inserted in the attached Excel file. However, since the list is lengthy, inserting rows manually is not feasible. The macro should automatically insert a row at each instance where there is a set of anagrams. Could you help me create a macro that can automate this process?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A1:F30",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:F21",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_300-35_input.xlsx",
+    "answer": "1_300-35_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_300-35_input.xlsx",
+    "answer": "2_300-35_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_300-35_input.xlsx",
+    "answer": "3_300-35_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "34-5",
+  "dir": "spreadsheet/34-5",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How can I create a macro to delete rows in an Excel worksheet where the rows contain dates in column L that are earlier than the dates of the current month? The relevant data starts at row 8 with headers in row 7, and I'm looking for a fast method to perform this action. An example file has been provided to illustrate the task.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A8:L30",
+  "answer_sheet": "SHEET1",
+  "data_position": "A7:L27",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_34-5_input.xlsx",
+    "answer": "1_34-5_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_34-5_input.xlsx",
+    "answer": "2_34-5_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_34-5_input.xlsx",
+    "answer": "3_34-5_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "382-10",
+  "dir": "spreadsheet/382-10",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I have a column (A) in my Excel spreadsheet, and I would like to delete all values in this column that are not equal to the word \"comments\". I attempted to use a Find/Replace macro, using the '<>' symbol as a not equal indicator, but it didn't work. My code was: Sheets(\"Call QC\").Range(\"A:A\").Replace \"<>Comments<>\", \"\", xlWhole, , False, , False, False. I have an example sheet where the cells I want to clear are colored red. Note that the amount of rows and the positions where \"comments\" appear will differ significantly.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A1:A19",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:A18",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_382-10_input.xlsx",
+    "answer": "1_382-10_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_382-10_input.xlsx",
+    "answer": "2_382-10_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_382-10_input.xlsx",
+    "answer": "3_382-10_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "415-45",
+  "dir": "spreadsheet/415-45",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I am learning how to use a dictionary in Excel VBA and am encountering a problem.  I need assistance with understanding how to utilize a dictionary to find the minimum, maximum, and average values from the data provided in the attached Excel file.The expected answers are in cells F1 through K3. After operation, the answer should be output from G2 to K5.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!G2:K5",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:K14",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_415-45_input.xlsx",
+    "answer": "1_415-45_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_415-45_input.xlsx",
+    "answer": "2_415-45_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_415-45_input.xlsx",
+    "answer": "3_415-45_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "418-29",
+  "dir": "spreadsheet/418-29",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How can I write a VBA macro for Excel that processes a range where each cell in column A contains a reference number and each corresponding cell in column B contains a value? The macro should subtract the values in column B where the reference numbers in column A match, place the resulting net value in the cell of the first occurrence, and then delete the entire row of the second and any subsequent occurrences of the same reference number. An example is given where for reference number 115 at A5 with a value of 549.75 and another reference 115 at A8 with a value of 549.35, the result after subtraction should be 0.40, which should replace the original value at A5. Rows with duplicate references after the first should then be deleted.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Extracted Data'!A1:B7",
+  "answer_sheet": "Extracted Data",
+  "data_position": "Extracted Data!'A1:B7,'Final Result!'A1:B5'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_418-29_input.xlsx",
+    "answer": "1_418-29_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_418-29_input.xlsx",
+    "answer": "2_418-29_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_418-29_input.xlsx",
+    "answer": "3_418-29_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "43026",
+  "dir": "spreadsheet/43026",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I'm struggling with a SUMPRODUCT formula I've written as '=SUMPRODUCT((Table!A5:A17=summary!A10)*(Table!B5:B17=summary!D3)*(Table!B5:B17=summary!D4)*(Table!B5:B17=summary!D5)*(Table!B5:B17=summary!D6), Table!G5:Table!G17)' in Excel. Instead of giving the correct result, which should be 528 displayed in cell D10, it only shows a dash.",
+  "instruction_type": "Cell-Level Manipulation",
+  "answer_position": "'summary'!D10",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_43026_input.xlsx",
+    "answer": "1_43026_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "438-24",
+  "dir": "spreadsheet/438-24",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How can I create a macro in Excel that identifies and deletes rows starting from a duplicated 'Stock Number' header and all rows that follow it? For example, in the provided sample data, the macro should remove the data from cell A13 to A21.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A1:A21",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:A21",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_438-24_input.xlsx",
+    "answer": "1_438-24_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_438-24_input.xlsx",
+    "answer": "2_438-24_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_438-24_input.xlsx",
+    "answer": "3_438-24_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "441-38",
+  "dir": "spreadsheet/441-38",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need to know how to automatically count the occurrences of red and green values within a single cell in Excel.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!H6:J22",
+  "answer_sheet": "Sheet1",
+  "data_position": "C4:G22",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_441-38_input.xlsx",
+    "answer": "1_441-38_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_441-38_input.xlsx",
+    "answer": "2_441-38_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_441-38_input.xlsx",
+    "answer": "3_441-38_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "456-19",
+  "dir": "spreadsheet/456-19",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How can I sort a named range of four-digit item numbers situated in a non-standard grid layout in Excel, such as in cells A20 to R41, so they are ordered ascending from left to right and top to bottom, like reading style, without the constraint of sorting by either columns or rows only? I'm seeking a solution, potentially a macro, that can handle hundreds of values per sheet efficiently for users who aren't tech-savvy, while ensuring it works with cells containing text above the range and avoiding erroneous shifts or errors like '#NUM!' with blank cells. For example, the numbers will be entered like so (in the sample workbook, the range would be A1 to C5, named \"Numbers\"):\n[1111 9999 7777 6666 8888]\n[5555 4444 3333 1234 2345]\n[3456 9876 5454 3695 8550]\nAnd our desired result after sorting would be arranged in ascending order from left to right, top to bottom, reading style, like so:\n[1111 1234 2345 3333 3456]\n[3695 4444 5454 5555 6666]\n[7777 8550 8888 9876 9999]",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A1:R2",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:R6",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_456-19_input.xlsx",
+    "answer": "1_456-19_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_456-19_input.xlsx",
+    "answer": "2_456-19_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_456-19_input.xlsx",
+    "answer": "3_456-19_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "458-49",
+  "dir": "spreadsheet/458-49",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need a macro that can delete rows from the second row onwards in my Excel worksheet where the text in Column C ends with the letter 'L'. Could you assist me with this? Also, I have provided a sample Excel file with the data and the rows that need to be deleted are marked for your reference.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Imported Data'!A1:C53",
+  "answer_sheet": "Imported Data",
+  "data_position": "A1:C53",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_458-49_input.xlsx",
+    "answer": "1_458-49_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_458-49_input.xlsx",
+    "answer": "2_458-49_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_458-49_input.xlsx",
+    "answer": "3_458-49_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "462-45",
+  "dir": "spreadsheet/462-45",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need a macro to extract all rows from the 'Imported Data' sheet into an 'Extract' sheet, where the sum of values in Column I equals or is up to but not exceeding a specified maximum value in cell S2, which is 65,000. The issue I have encountered with the current macro provided is that it is copying over values that exceed the specified amount in S2. The macro should ensure that the total value does not surpass 65,000 and should copy all corresponding columns of the rows that contribute to this total.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Extracted Items'!A2:J4",
+  "answer_sheet": "Extracted Items",
+  "data_position": "Imported Data!'A1:J11,'Extracted Items!'A1:J4'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_462-45_input.xlsx",
+    "answer": "1_462-45_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_462-45_input.xlsx",
+    "answer": "2_462-45_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_462-45_input.xlsx",
+    "answer": "3_462-45_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "470-22",
+  "dir": "spreadsheet/470-22",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need to amend my code to extract account numbers from the 'Acc Numbers' sheet to the 'Extract Acc Non Zero' sheet, specifically only copying those account numbers whose corresponding values in Column B are not zero. My current macro clears the 'Extract Acc Non Zero' sheet, copies the entire range of account numbers from the 'Acc Numbers' sheet starting at A2 to the last row, and pastes the values in the 'Extract Acc Non Zero' sheet starting at cell A1. However, it does not filter out the account numbers where the value in Column B is zero, which is a capability I require.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Extract Acc Non Zero'!A1:B28",
+  "answer_sheet": "Extract Acc Non Zero",
+  "data_position": "Acc Numbers!'A1:B30'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_470-22_input.xlsx",
+    "answer": "1_470-22_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_470-22_input.xlsx",
+    "answer": "2_470-22_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_470-22_input.xlsx",
+    "answer": "3_470-22_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "493-18",
+  "dir": "spreadsheet/493-18",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How do I match the corresponding data in columns A and F, and then delete the data that does not appear in column F in the range of columns A, B, and C?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "A1:F7",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:F7",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_493-18_input.xlsx",
+    "answer": "1_493-18_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_493-18_input.xlsx",
+    "answer": "2_493-18_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_493-18_input.xlsx",
+    "answer": "3_493-18_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "495-31",
+  "dir": "spreadsheet/495-31",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How can I use VBA to transpose data from a 'Data' sheet to a 'Result' sheet as demonstrated in an attached Excel file? Subsequently, if my total items increase to 10 instead of 5, what changes are necessary in your provided code? Additionally, if the 'Item' column is in the middle of the data and I need to exclude the 'Category' column when transposing, how can I adjust the code accordingly?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Results'!A1:B8",
+  "answer_sheet": "Results",
+  "data_position": "Data!'A1:H7,'Results!'A1:B7'",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_495-31_input.xlsx",
+    "answer": "1_495-31_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_495-31_input.xlsx",
+    "answer": "2_495-31_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_495-31_input.xlsx",
+    "answer": "3_495-31_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "495-40",
+  "dir": "spreadsheet/495-40",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How can I create a macro in Excel that edits cells in columns L and N, starting at row 3 down to the last row with data (potentially up to 15,000 rows), by removing any text that follows a person's name, specifically if it is an alias indicated by 'aka' or any variations such as 'AKA', 'A.K.A.', etc.? For instance, in a cell containing 'BRUCE W. WAYNE AKA \"BAT MAN\"', the macro should revise it to just 'BRUCE W. WAYNE'.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!L3:N7",
+  "answer_sheet": "Sheet1",
+  "data_position": "L3:N7",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_495-40_input.xlsx",
+    "answer": "1_495-40_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_495-40_input.xlsx",
+    "answer": "2_495-40_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_495-40_input.xlsx",
+    "answer": "3_495-40_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "504-10",
+  "dir": "spreadsheet/504-10",
+  "payload": "all_data_912_v0.1",
+  "instruction": "As someone new to Regular Expressions, I need help creating a macro that uses RegExp to extract data from a sheet where column A contains raw string data. The goal is to capture the relevant data into columns B, C, D, and E. Please provide a code using RegExp that fulfills this requirement. I have provided several examples, please help me complete the remaining data in the following corresponding positions, pay attention to the position correspondence.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "B2:E6",
+  "answer_sheet": "Sheet3",
+  "data_position": "A1:E6",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_504-10_input.xlsx",
+    "answer": "1_504-10_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_504-10_input.xlsx",
+    "answer": "2_504-10_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_504-10_input.xlsx",
+    "answer": "3_504-10_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "53-12",
+  "dir": "spreadsheet/53-12",
+  "payload": "all_data_912_v0.1",
+  "instruction": "How can I clear the contents of columns B and C in the 'Interest' worksheet if the count of non-empty cells in column B is greater than or equal to 12? The existing macro I attempted is not functioning as intended, as it does not clear the data, even though I have 13 items in column B which should trigger the clearing of both columns B and C.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "B1:C13",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:C13",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_53-12_input.xlsx",
+    "answer": "1_53-12_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_53-12_input.xlsx",
+    "answer": "2_53-12_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_53-12_input.xlsx",
+    "answer": "3_53-12_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "53-14",
+  "dir": "spreadsheet/53-14",
+  "payload": "all_data_912_v0.1",
+  "instruction": "In my Excel workbook, I have values in Column B and corresponding months and years in Column C. Whenever there's a case of duplicated value along with the month and year in these columns, I want to keep the first instance and delete the subsequent duplicate rows. I've attempted to write a macro to perform this operation, but it's not successfully deleting the second or any additional duplicates that occur. I need help adjusting my code to make it work correctly.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "B1:C5",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:C2",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_53-14_input.xlsx",
+    "answer": "1_53-14_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_53-14_input.xlsx",
+    "answer": "2_53-14_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_53-14_input.xlsx",
+    "answer": "3_53-14_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "575-16",
+  "dir": "spreadsheet/575-16",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I have a large amount of Excel data arranged vertically with student codes and their corresponding class codes. I need a VBA code to transpose this data into a horizontal format. Can someone provide me with a VBA script that can perform this action as demonstrated in the sample file I've attached?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!G11:R13",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:B27",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_575-16_input.xlsx",
+    "answer": "1_575-16_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_575-16_input.xlsx",
+    "answer": "2_575-16_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_575-16_input.xlsx",
+    "answer": "3_575-16_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "598-46",
+  "dir": "spreadsheet/598-46",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need a VBA macro that can be used in an Excel workbook to delete any row where the data in column B does not have any duplicates. For example, in the provided sample file, the third row should be deleted because its value in column B is not duplicated anywhere else in that column.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet3'!A2:D8",
+  "answer_sheet": "Sheet3",
+  "data_position": "A2:D4",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_598-46_input.xlsx",
+    "answer": "1_598-46_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_598-46_input.xlsx",
+    "answer": "2_598-46_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_598-46_input.xlsx",
+    "answer": "3_598-46_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "76-42",
+  "dir": "spreadsheet/76-42",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I need to calculate the time difference in column D based on start times in column B and end times in column C using Excel, with the following conditions: 1) When a cell contains multiple time records separated by a comma, the differences should also be separated by commas in column D. 2) If the start time is later or greater than the end time, the cell in column D should display 'ERROR'. 3) If either of the cells in columns B or C is empty, the corresponding cell in column D should be left blank. 4) If any text that is not in time format is entered into columns B or C, the cell in column D should show 'NA'. Additionally, in the case of having multiple times on the same date, I'd like to display time only after the comma without repeating the date. I made a timestamp macro to record time, but it does not work for inserting time after a comma within the same cell. I'm not familiar with coding, so I would need guidance or a solution for this.",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!D2:D4",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:D4",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_76-42_input.xlsx",
+    "answer": "1_76-42_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_76-42_input.xlsx",
+    "answer": "2_76-42_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_76-42_input.xlsx",
+    "answer": "3_76-42_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "76-43",
+  "dir": "spreadsheet/76-43",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I'm seeking a VBA code solution to find and replace a specific word within a single cell (A1&A2) in Excel. In this cell, I want to replace the word 'abcxyz' with '123456', but the methods I've found online and attempts with the 'Range(\"A1&A2\").Replace' code aren't successful as they seem to apply to situations outside the cell rather than within it. Additionally, a macro that I tried to record for find and replace did not work either. How can I accomplish this cell-specific find and replace task in VBA?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!A1:A2",
+  "answer_sheet": "Sheet1",
+  "data_position": "A1:A2",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_76-43_input.xlsx",
+    "answer": "1_76-43_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_76-43_input.xlsx",
+    "answer": "2_76-43_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_76-43_input.xlsx",
+    "answer": "3_76-43_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "84-38",
+  "dir": "spreadsheet/84-38",
+  "payload": "all_data_912_v0.1",
+  "instruction": "In my 'Compare' sheet, I have data in columns A and B which I am trying to sort independently in ascending order using VBA. While column B sorts correctly, column A does not sort as intended. I have the results I want to achieve displayed in columns E and F. Can anyone correct my code to sort columns A and B independently?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Compare'!A1:A14",
+  "answer_sheet": "Compare",
+  "data_position": "A1:B14",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_84-38_input.xlsx",
+    "answer": "1_84-38_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_84-38_input.xlsx",
+    "answer": "2_84-38_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_84-38_input.xlsx",
+    "answer": "3_84-38_answer.xlsx"
+   }
+  ]
+ },
+ {
+  "id": "94-28",
+  "dir": "spreadsheet/94-28",
+  "payload": "all_data_912_v0.1",
+  "instruction": "I have written a VBA macro that is supposed to remove spaces and round numbers to remove decimals in column C of a worksheet named 'sheet1'. Although the macro is designed to format numbers and remove spaces, it is not successfully removing leading and trailing spaces. A respondent has mentioned that the leading character in cell C1 is a non-breaking space, which the TRIM function does not remove, and suggested using CLEAN or SUBSTITUTE functions, but I'm not sure how to incorporate that into my VBA code. I've also downloaded a code that perfectly removes non-breaking spaces and rounds numbers without affecting cells with formulas; however, when I try to amend this code to specifically refer to 'sheet1', it results in a runtime error related to the 'Intersect' method. How can I amend my macro or adjust the provided solutions to efficiently remove both leading/trailing spaces and non-breaking spaces from column C in 'sheet1', and what is the correct way to reference 'sheet1' in the Intersect method without causing errors?",
+  "instruction_type": "Sheet-Level Manipulation",
+  "answer_position": "'Sheet1'!C1:C3",
+  "answer_sheet": "Sheet1",
+  "data_position": "C1:C3",
+  "cases": [
+   {
+    "case": 1,
+    "input": "1_94-28_input.xlsx",
+    "answer": "1_94-28_answer.xlsx"
+   },
+   {
+    "case": 2,
+    "input": "2_94-28_input.xlsx",
+    "answer": "2_94-28_answer.xlsx"
+   },
+   {
+    "case": 3,
+    "input": "3_94-28_input.xlsx",
+    "answer": "3_94-28_answer.xlsx"
+   }
+  ]
+ }
+]

@@ -1,0 +1,572 @@
+[
+ {
+  "qid": "9429",
+  "docId": "3145",
+  "ucsf_document_id": "mmpg0023",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "others"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 0,
+  "n_answers": 1,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 2491
+ },
+ {
+  "qid": "8734",
+  "docId": "2944",
+  "ucsf_document_id": "ltkw0023",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 1,
+  "n_answers": 1,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 2036
+ },
+ {
+  "qid": "1065",
+  "docId": "509",
+  "ucsf_document_id": "mljf0226",
+  "ucsf_document_page_no": "2",
+  "question_types": [
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 2,
+  "n_answers": 2,
+  "source_file": "train-00000-of-00012.parquet",
+  "source_row": 355
+ },
+ {
+  "qid": "16119",
+  "docId": "5277",
+  "ucsf_document_id": "lgww0217",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "form"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 3,
+  "n_answers": 1,
+  "source_file": "train-00003-of-00012.parquet",
+  "source_row": 220
+ },
+ {
+  "qid": "12915",
+  "docId": "4093",
+  "ucsf_document_id": "jfpw0065",
+  "ucsf_document_page_no": "2",
+  "question_types": [
+   "form"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 4,
+  "n_answers": 1,
+  "source_file": "train-00002-of-00012.parquet",
+  "source_row": 1436
+ },
+ {
+  "qid": "44016",
+  "docId": "12628",
+  "ucsf_document_id": "fggn0226",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "layout",
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 5,
+  "n_answers": 1,
+  "source_file": "train-00008-of-00012.parquet",
+  "source_row": 2522
+ },
+ {
+  "qid": "13345",
+  "docId": "4220",
+  "ucsf_document_id": "jjlh0077",
+  "ucsf_document_page_no": "29",
+  "question_types": [
+   "form"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 6,
+  "n_answers": 1,
+  "source_file": "train-00002-of-00012.parquet",
+  "source_row": 1752
+ },
+ {
+  "qid": "35675",
+  "docId": "10274",
+  "ucsf_document_id": "tqjm0223",
+  "ucsf_document_page_no": "5",
+  "question_types": [
+   "form"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 7,
+  "n_answers": 1,
+  "source_file": "train-00006-of-00012.parquet",
+  "source_row": 3057
+ },
+ {
+  "qid": "9954",
+  "docId": "3279",
+  "ucsf_document_id": "llkf0023",
+  "ucsf_document_page_no": "2",
+  "question_types": [
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 8,
+  "n_answers": 1,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 2835
+ },
+ {
+  "qid": "10182",
+  "docId": "3335",
+  "ucsf_document_id": "jlwv0054",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 9,
+  "n_answers": 1,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 2983
+ },
+ {
+  "qid": "17834",
+  "docId": "5535",
+  "ucsf_document_id": "pqnh0078",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "free_text",
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 10,
+  "n_answers": 2,
+  "source_file": "train-00003-of-00012.parquet",
+  "source_row": 1259
+ },
+ {
+  "qid": "7884",
+  "docId": "2784",
+  "ucsf_document_id": "ggdn0020",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "form"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 11,
+  "n_answers": 2,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 1426
+ },
+ {
+  "qid": "18059",
+  "docId": "5579",
+  "ucsf_document_id": "xsph0078",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 12,
+  "n_answers": 1,
+  "source_file": "train-00003-of-00012.parquet",
+  "source_row": 1414
+ },
+ {
+  "qid": "8963",
+  "docId": "3013",
+  "ucsf_document_id": "srjm0020",
+  "ucsf_document_page_no": "3",
+  "question_types": [
+   "form"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 13,
+  "n_answers": 2,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 2195
+ },
+ {
+  "qid": "7109",
+  "docId": "2414",
+  "ucsf_document_id": "hydj0006",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "form",
+   "handwritten",
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 14,
+  "n_answers": 1,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 869
+ },
+ {
+  "qid": "17868",
+  "docId": "5546",
+  "ucsf_document_id": "ftyd0079",
+  "ucsf_document_page_no": "3",
+  "question_types": [
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 15,
+  "n_answers": 1,
+  "source_file": "train-00003-of-00012.parquet",
+  "source_row": 1283
+ },
+ {
+  "qid": "55061",
+  "docId": "4218",
+  "ucsf_document_id": "mfhh0077",
+  "ucsf_document_page_no": "12",
+  "question_types": [
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 16,
+  "n_answers": 1,
+  "source_file": "train-00011-of-00012.parquet",
+  "source_row": 4
+ },
+ {
+  "qid": "9986",
+  "docId": "3286",
+  "ucsf_document_id": "lfmg0023",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "figure/diagram",
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 17,
+  "n_answers": 1,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 2856
+ },
+ {
+  "qid": "7684",
+  "docId": "2696",
+  "ucsf_document_id": "qhhb0018",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "free_text",
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 18,
+  "n_answers": 1,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 1286
+ },
+ {
+  "qid": "17343",
+  "docId": "5430",
+  "ucsf_document_id": "ztvw0217",
+  "ucsf_document_page_no": "26",
+  "question_types": [
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 19,
+  "n_answers": 1,
+  "source_file": "train-00003-of-00012.parquet",
+  "source_row": 919
+ },
+ {
+  "qid": "13463",
+  "docId": "4280",
+  "ucsf_document_id": "fnvj0223",
+  "ucsf_document_page_no": "13",
+  "question_types": [
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 20,
+  "n_answers": 1,
+  "source_file": "train-00002-of-00012.parquet",
+  "source_row": 1843
+ },
+ {
+  "qid": "9671",
+  "docId": "3212",
+  "ucsf_document_id": "snlw0023",
+  "ucsf_document_page_no": "2",
+  "question_types": [
+   "form"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 21,
+  "n_answers": 1,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 2676
+ },
+ {
+  "qid": "4583",
+  "docId": "2091",
+  "ucsf_document_id": "mndx0226",
+  "ucsf_document_page_no": "8",
+  "question_types": [
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 22,
+  "n_answers": 1,
+  "source_file": "train-00000-of-00012.parquet",
+  "source_row": 2959
+ },
+ {
+  "qid": "6496",
+  "docId": "2300",
+  "ucsf_document_id": "skbf0001",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "free_text",
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 23,
+  "n_answers": 1,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 537
+ },
+ {
+  "qid": "6164",
+  "docId": "2179",
+  "ucsf_document_id": "fypn0000",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "form"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 24,
+  "n_answers": 2,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 288
+ },
+ {
+  "qid": "21182",
+  "docId": "6265",
+  "ucsf_document_id": "hjxw0228",
+  "ucsf_document_page_no": "2",
+  "question_types": [
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 25,
+  "n_answers": 3,
+  "source_file": "train-00004-of-00012.parquet",
+  "source_row": 17
+ },
+ {
+  "qid": "10863",
+  "docId": "3566",
+  "ucsf_document_id": "skcg0023",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "handwritten",
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 26,
+  "n_answers": 1,
+  "source_file": "train-00002-of-00012.parquet",
+  "source_row": 154
+ },
+ {
+  "qid": "46320",
+  "docId": "13337",
+  "ucsf_document_id": "psdw0217",
+  "ucsf_document_page_no": "6",
+  "question_types": [
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 27,
+  "n_answers": 1,
+  "source_file": "train-00009-of-00012.parquet",
+  "source_row": 709
+ },
+ {
+  "qid": "45881",
+  "docId": "13505",
+  "ucsf_document_id": "psdw0217",
+  "ucsf_document_page_no": "7",
+  "question_types": [
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 28,
+  "n_answers": 2,
+  "source_file": "train-00009-of-00012.parquet",
+  "source_row": 418
+ },
+ {
+  "qid": "24677",
+  "docId": "7042",
+  "ucsf_document_id": "syvl0226",
+  "ucsf_document_page_no": "2",
+  "question_types": [
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 29,
+  "n_answers": 1,
+  "source_file": "train-00004-of-00012.parquet",
+  "source_row": 2229
+ },
+ {
+  "qid": "4611",
+  "docId": "2033",
+  "ucsf_document_id": "gnpg0226",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "Image/Photo",
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 30,
+  "n_answers": 1,
+  "source_file": "train-00000-of-00012.parquet",
+  "source_row": 2978
+ },
+ {
+  "qid": "15679",
+  "docId": "4960",
+  "ucsf_document_id": "plvw0217",
+  "ucsf_document_page_no": "28",
+  "question_types": [
+   "table/list"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 31,
+  "n_answers": 1,
+  "source_file": "train-00002-of-00012.parquet",
+  "source_row": 3174
+ },
+ {
+  "qid": "46104",
+  "docId": "13562",
+  "ucsf_document_id": "xrdw0217",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 32,
+  "n_answers": 1,
+  "source_file": "train-00009-of-00012.parquet",
+  "source_row": 600
+ },
+ {
+  "qid": "56055",
+  "docId": "4210",
+  "ucsf_document_id": "gfhh0077",
+  "ucsf_document_page_no": "10",
+  "question_types": [
+   "free_text"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 33,
+  "n_answers": 3,
+  "source_file": "train-00011-of-00012.parquet",
+  "source_row": 481
+ },
+ {
+  "qid": "1952",
+  "docId": "900",
+  "ucsf_document_id": "zlcn0226",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 34,
+  "n_answers": 1,
+  "source_file": "train-00000-of-00012.parquet",
+  "source_row": 983
+ },
+ {
+  "qid": "50160",
+  "docId": "14526",
+  "ucsf_document_id": "sqww0228",
+  "ucsf_document_page_no": "2",
+  "question_types": [
+   "form",
+   "handwritten"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 35,
+  "n_answers": 1,
+  "source_file": "train-00010-of-00012.parquet",
+  "source_row": 149
+ },
+ {
+  "qid": "6952",
+  "docId": "2283",
+  "ucsf_document_id": "qpyn0000",
+  "ucsf_document_page_no": "1",
+  "question_types": [
+   "form"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 36,
+  "n_answers": 1,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 808
+ },
+ {
+  "qid": "8521",
+  "docId": "2902",
+  "ucsf_document_id": "fjkw0023",
+  "ucsf_document_page_no": "2",
+  "question_types": [
+   "layout"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 37,
+  "n_answers": 1,
+  "source_file": "train-00001-of-00012.parquet",
+  "source_row": 1876
+ },
+ {
+  "qid": "53811",
+  "docId": "3179",
+  "ucsf_document_id": "pkbh0023",
+  "ucsf_document_page_no": "2",
+  "question_types": [
+   "form"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 38,
+  "n_answers": 1,
+  "source_file": "train-00010-of-00012.parquet",
+  "source_row": 2529
+ },
+ {
+  "qid": "17897",
+  "docId": "5554",
+  "ucsf_document_id": "jmjw0081",
+  "ucsf_document_page_no": "2",
+  "question_types": [
+   "form"
+  ],
+  "file": "docvqa-sample-train40.parquet",
+  "row": 39,
+  "n_answers": 1,
+  "source_file": "train-00003-of-00012.parquet",
+  "source_row": 1307
+ }
+]

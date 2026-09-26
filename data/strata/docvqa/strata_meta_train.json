@@ -1,0 +1,2502 @@
+{
+  "34790": {
+    "qtypes": "free_text|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "51649": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "23083": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "9643": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "32809": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "31282": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "43897": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "32052": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "3231": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "48102": {
+    "qtypes": "Image/Photo",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "34018": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "17510": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "18288": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "39525": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "54884": {
+    "qtypes": "free_text|layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "3886": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "47930": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "8948": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "2673": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "49646": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "28972": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "44913": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "48957": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "62883": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "31422": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "10863": {
+    "qtypes": "handwritten|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "41263": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "24861": {
+    "qtypes": "form",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "15679": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "13147": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "4509": {
+    "qtypes": "free_text|table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "11867": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "57712": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "9268": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "4661": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "16163": {
+    "qtypes": "Image/Photo",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "short"
+  },
+  "59257": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "64368": {
+    "qtypes": "handwritten|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "35620": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "14952": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "30582": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "3615": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "43691": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "8914": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "4611": {
+    "qtypes": "Image/Photo|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "45508": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "64471": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "63066": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "48126": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "1644": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "15175": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "44344": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "31114": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "55838": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "3015": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "40628": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "18124": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "8734": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "32173": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "long"
+  },
+  "46320": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "18165": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "49202": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "50560": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "17834": {
+    "qtypes": "free_text|table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "8963": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "14861": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "37137": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "46455": {
+    "qtypes": "figure/diagram",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "51808": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "48600": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "17246": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "40605": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "51957": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "3179": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "12338": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "28237": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "12297": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "44864": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "53310": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "39075": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "50160": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "60295": {
+    "qtypes": "figure/diagram|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "24140": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "35931": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "5991": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "2084": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "47026": {
+    "qtypes": "handwritten|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "51894": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "9986": {
+    "qtypes": "figure/diagram|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "60268": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "3288": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "12119": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "51967": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "19332": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "18466": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "49634": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "11230": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "39296": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "3913": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "10568": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "65257": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "16843": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "34205": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "7684": {
+    "qtypes": "free_text|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "26615": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "6615": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "19934": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "35834": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "14390": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "28597": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "50389": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "31435": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "48997": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "3791": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "28221": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "28639": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "53868": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "26484": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "13244": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "2863": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "35987": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "51069": {
+    "qtypes": "others",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "938": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "4838": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "11818": {
+    "qtypes": "free_text|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "8922": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "44478": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "2082": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "17868": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "8804": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "20292": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "62874": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "54837": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "26088": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "36531": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "35675": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "2847": {
+    "qtypes": "form|layout|others",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "6164": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "16738": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "4650": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "38545": {
+    "qtypes": "form|table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "9360": {
+    "qtypes": "handwritten",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "20346": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "26232": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "17443": {
+    "qtypes": "handwritten",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "41196": {
+    "qtypes": "layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "46423": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "40085": {
+    "qtypes": "free_text|layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "50243": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "34604": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "28440": {
+    "qtypes": "free_text|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "2297": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "2049": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "46903": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "18404": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "36357": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "16035": {
+    "qtypes": "free_text|others",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "31482": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "25816": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "52606": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "10182": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "30135": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "25995": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "48728": {
+    "qtypes": "form|table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "6901": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "22138": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "4703": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "1065": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "26150": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "31140": {
+    "qtypes": "layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "short"
+  },
+  "29005": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "53298": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "25047": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "53249": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "54988": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "4883": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "52958": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "50623": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "947": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "11916": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "24677": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "15825": {
+    "qtypes": "form|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "40680": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "49174": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "36506": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "26040": {
+    "qtypes": "layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "short"
+  },
+  "51856": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "49207": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "long"
+  },
+  "8569": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "20553": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "5719": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "48560": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "long"
+  },
+  "10792": {
+    "qtypes": "form|handwritten|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "29985": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "5421": {
+    "qtypes": "layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "short"
+  },
+  "37148": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "48617": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "31180": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "21019": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "6417": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "17707": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "17343": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "8043": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "49272": {
+    "qtypes": "layout|others",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "40083": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "7884": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "44016": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "32740": {
+    "qtypes": "layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "49318": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "26137": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "2612": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "9102": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "19613": {
+    "qtypes": "form",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "short"
+  },
+  "57703": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "8185": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "9671": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "31638": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "29044": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "4583": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "24349": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "33793": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "11745": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "24456": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "52844": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "48277": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "47612": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "40152": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "44909": {
+    "qtypes": "figure/diagram",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "6581": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "59226": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "3010": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "24780": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "38235": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "29507": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "34236": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "26087": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "42110": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "54849": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "31241": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "64956": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "52073": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "8894": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "25175": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "55996": {
+    "qtypes": "free_text|handwritten",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "35965": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "7155": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "52636": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "27259": {
+    "qtypes": "layout|others",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "9835": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "9954": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "27958": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "3719": {
+    "qtypes": "form|table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "53753": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "60189": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "61936": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "42387": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "6952": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "4458": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "42322": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "29424": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "38329": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "11923": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "24962": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "19484": {
+    "qtypes": "form|table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "25941": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "7109": {
+    "qtypes": "form|handwritten|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "20299": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "16119": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "51630": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "45010": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "25292": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "37901": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "52061": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "49900": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "37501": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "52962": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "22784": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "1521": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "33553": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "1387": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "1952": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "24603": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "45230": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "short"
+  },
+  "37481": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "41025": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "45881": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "31953": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "36555": {
+    "qtypes": "Yes/No|form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "9429": {
+    "qtypes": "others",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "34764": {
+    "qtypes": "layout|others",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "46104": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "48152": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "62229": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "19880": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "40119": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "35996": {
+    "qtypes": "figure/diagram",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "35040": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "18059": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "58998": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "4892": {
+    "qtypes": "free_text|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "63384": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "34849": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "41998": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "19449": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "27333": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "31892": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "26382": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "48590": {
+    "qtypes": "handwritten|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "20283": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "45150": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "30609": {
+    "qtypes": "form|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "5969": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "51393": {
+    "qtypes": "free_text|layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "25358": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "11633": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "16322": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "10339": {
+    "qtypes": "form|free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "6308": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "3960": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "42673": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "55061": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "63233": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "37628": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "35115": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "18847": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "52187": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "29585": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "34780": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "21844": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "13345": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "32265": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "33414": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "33537": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "3073": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "17897": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "53208": {
+    "qtypes": "form|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "46392": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "25979": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "24130": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "29501": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "34354": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "49842": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "58163": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "31337": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "25364": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "18443": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "743": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "13463": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "33684": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "49470": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "12343": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "65441": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "2347": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "62698": {
+    "qtypes": "layout|others",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "8174": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "19581": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "2583": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "50680": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "47142": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "34189": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "3462": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "63295": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "8794": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "44005": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "6496": {
+    "qtypes": "free_text|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "55155": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "41305": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "53273": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "17556": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "52726": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "46579": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "30714": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "49513": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "8521": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "45309": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "19686": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "52406": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "28968": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "22207": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "38863": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "17870": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "51924": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "54644": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "44299": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "7710": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "24016": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "26710": {
+    "qtypes": "form|free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "32642": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "18001": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "12433": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "58091": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "35319": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "25231": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "18722": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "16143": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "4009": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "64061": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "38922": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "26360": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "28476": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "32017": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "4300": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "39585": {
+    "qtypes": "free_text|table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "3224": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "31176": {
+    "qtypes": "layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "50707": {
+    "qtypes": "figure/diagram|layout|others",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "34382": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "61708": {
+    "qtypes": "layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "63928": {
+    "qtypes": "figure/diagram",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "51870": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "38374": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "34489": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "41510": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "21182": {
+    "qtypes": "layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "short"
+  },
+  "42367": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "65445": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "8226": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "31312": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "35059": {
+    "qtypes": "layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "53198": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "64033": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "28955": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "28777": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "52788": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "2026": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "31741": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "50592": {
+    "qtypes": "others",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "1656": {
+    "qtypes": "figure/diagram|form|layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "28567": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "7253": {
+    "qtypes": "free_text|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "24926": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "39581": {
+    "qtypes": "others|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "40289": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "35190": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "38088": {
+    "qtypes": "handwritten|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "47645": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "34784": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "51055": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "55735": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "32676": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "33574": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "2768": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "23170": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "55617": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "37193": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "30299": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "24292": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "25537": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "46966": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "4475": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "12915": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "32392": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "53811": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "21305": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "12452": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "50668": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "37923": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "24535": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "2574": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "long"
+  },
+  "5139": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "35488": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "35075": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "35089": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "40905": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "15835": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "26258": {
+    "qtypes": "free_text|layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "7409": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "53362": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "41069": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "56055": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "6266": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "40058": {
+    "qtypes": "layout|table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "10513": {
+    "qtypes": "layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "short"
+  },
+  "50052": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "2378": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "48085": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "10441": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "2480": {
+    "qtypes": "layout|others",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "15481": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "55884": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "52777": {
+    "qtypes": "form",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "38873": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "9310": {
+    "qtypes": "Yes/No|handwritten",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "21692": {
+    "qtypes": "form|layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "48216": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "62746": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "38312": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "long"
+  },
+  "31382": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "19287": {
+    "qtypes": "layout",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "short"
+  },
+  "25650": {
+    "qtypes": "layout",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "35136": {
+    "qtypes": "form|handwritten",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "19835": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "35599": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "30892": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "48001": {
+    "qtypes": "form",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "mid"
+  },
+  "4014": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "3plus",
+    "qlen_bucket": "long"
+  },
+  "51833": {
+    "qtypes": "table/list",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "mid"
+  },
+  "48327": {
+    "qtypes": "layout",
+    "n_answers_bucket": "2",
+    "qlen_bucket": "short"
+  },
+  "12816": {
+    "qtypes": "free_text",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  },
+  "27154": {
+    "qtypes": "form",
+    "n_answers_bucket": "1",
+    "qlen_bucket": "mid"
+  }
+}
