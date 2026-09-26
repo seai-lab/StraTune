@@ -1,7 +1,7 @@
 __pycache__/
 *.pyc
-runtime_data/
-benchmark_data/
-raw_data/
-state/
+/runtime_data/
+/benchmark_data/
+/raw_data/
+/state/
 method/tests/smoke_report.json
