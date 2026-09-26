@@ -14,34 +14,16 @@ can replace the current skill.
 
 ```text
 method/
-  train.py                   training loop (entry point): rounds, candidate evaluation, final skill selection
-  evaluate.py                test evaluation of a completed run or of a skill file
-  config.py                  datasets, splits, training budgets, model ids
-  operators/                 Sections 3.1-3.2: revision operators
-    selection.py             per-round choice of the search strategy and revision forms; I3 parallel sampling
-    direct_revision.py       I1 direct revision, and construction of the execution feedback E_t
-    iterative_refinement.py  I2 iterative refinement of an intermediate skill, one revision form per step
-    full_rewrite.py          F4 full rewrite of the whole skill from critiques of the failed samples
-    optimizer_llm.py         optimizer-LLM call helpers and the merge of content from saved skills
-    verified_fixes.py        the optimizer LLM checks its own fix before a failure becomes a lesson
-  evaluation/                Section 3.3: candidate evaluation
-    screening_sets.py        construction of the screening set Q_s
-    paired_execution.py      paired execution of current skill and candidate; gain and regression statistics
-    acceptance_rules.py      Wilson bounds and the accept / save / reject decision
-  state/                     the optimization state Omega_t
-    run_state.py             current skill, version graph, score ledgers, budget meter
-    execution_feedback.py    execution feedback E_t
-    histories.py             form history, strategy history and refinement progress p_t, past cases
-  common/                    task execution and parallel rollouts, run manifests, skill edits, utilities
-  environments/              task environments, dataset loaders and splits, metrics, dataset profiles, Bedrock client
-  configs/                   hyperparameters of the paper's runs
-  scripts/                   train.sh, evaluate.sh
-  tests/smoke_test.py        offline behavioral checks (no network)
-data/                        see data/README.md
-  benchmark_sample/          40 train + 20 test tasks per benchmark (5 MB) for running the code
-  strata/                    per-task stratification fields used for batches and screening sets
-  initial_skills/            initial skill of each dataset
-  skills/                    final skills of the StraTune runs in Table 1 (see data/skills/README.md)
+  train.py, evaluate.py, config.py   training loop, test evaluation, datasets and budgets
+  operators/                         revision operators: strategy and form selection, I1-I3, F4
+  evaluation/                        candidate evaluation: screening sets, paired execution, acceptance rules
+  state/                             optimization state: current skill, execution feedback, histories
+  environments/                      task environments, dataset loaders, metrics, Bedrock client
+  configs/, scripts/, tests/         hyperparameters of the paper's runs, train.sh / evaluate.sh, smoke test
+data/
+  benchmark_sample/                  40 train + 20 test tasks per benchmark for running the code
+  strata/                            per-task stratification fields
+  initial_skills/, skills/           initial skill of each dataset; final skills of the runs in Table 1
 ```
 
 ## Setup
