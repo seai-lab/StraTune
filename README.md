@@ -11,6 +11,11 @@ reasoning procedure, F4 full rewrite). Every candidate skill passes the same can
 screening and then further validation, before it can replace the current skill. This repository contains
 the code, the configurations and learned skills of the paper's runs, and a small sample of each benchmark.
 
+<p align="center">
+  <img src="assets/stratune_method.png" alt="Overview of StraTune" width="95%">
+</p>
+<p align="center"><em>(a) The optimizer LLM selects a revision operator from the optimization state and generates candidate skills. (b) Candidates pass initial screening and further validation; every outcome is recorded in the evaluation history. (c) Final skill selection compares the current skill with saved candidates.</em></p>
+
 ## Installation
 
 Python 3.11 or later.
