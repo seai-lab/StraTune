@@ -148,11 +148,14 @@ assets/                              figures
 If you find this work useful, please cite:
 
 ```bibtex
-@article{liu2026stratune,
-  title   = {StraTune: Adaptive Selection of Revision Operators for Self-Evolving LLM Skills},
-  author  = {Liu, Zeping and Li, Yan and Lao, Ni and Wolff, Gil and Mai, Gengchen},
-  journal = {arXiv preprint arXiv:2609.32886},
-  year    = {2026}
+@misc{liu2026stratuneadaptiveselectionrevision,
+      title={StraTune: Adaptive Selection of Revision Operators for Self-Evolving LLM Skills}, 
+      author={Zeping Liu and Yan Li and Ni Lao and Gil Wolff and Gengchen Mai},
+      year={2026},
+      eprint={2609.32886},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2609.32886}, 
 }
 ```
 
