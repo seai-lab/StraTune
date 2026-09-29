@@ -6,7 +6,7 @@ Zeping Liu<sup>1</sup>, Yan Li<sup>2</sup>, Ni Lao<sup>1</sup>, Gil Wolff<sup>2<
 
 <sup>1</sup>The University of Texas at Austin &nbsp;&nbsp; <sup>2</sup>Amazon &nbsp;&nbsp; <sup>&#8224;</sup>Corresponding author
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2609.32886-b31b1b.svg)](https://arxiv.org/abs/2609.32886)
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-StraTune__dataset-yellow)](https://huggingface.co/datasets/PingL/StraTune_dataset)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-green.svg)](requirements.txt)
@@ -151,7 +151,7 @@ If you find this work useful, please cite:
 @article{liu2026stratune,
   title   = {StraTune: Adaptive Selection of Revision Operators for Self-Evolving LLM Skills},
   author  = {Liu, Zeping and Li, Yan and Lao, Ni and Wolff, Gil and Mai, Gengchen},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  journal = {arXiv preprint arXiv:2609.32886},
   year    = {2026}
 }
 ```
